@@ -40,3 +40,4 @@ base58_test
 
 # debug information files
 *.dwo
+.vscode/
