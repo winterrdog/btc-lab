@@ -5,6 +5,10 @@
 #include <stdexcept>
 #include <vector>
 
+#include <cstdlib>
+#include <string>
+#include <vector>
+
 using u8 = unsigned char;
 using byte_array = std::vector<u8>;
 
