@@ -1,0 +1,5 @@
+datadir/
+student/
+/solution/rust/**/target
+.mypy_cache
+__pycache__

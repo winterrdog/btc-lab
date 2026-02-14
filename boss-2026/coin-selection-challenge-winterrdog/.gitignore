@@ -1,0 +1,16 @@
+.github/solutions/
+.github/getbalances.json
+
+datadir/*
+!datadir/student_wallet.json
+!datadir/node0
+datadir/node0/*
+!datadir/node0/bitcoin.conf
+datadir/node0/regtest/*
+!datadir/node0/regtest
+datadir/node0/regtest/blocks/*
+!datadir/node0/regtest/blocks
+!datadir/node0/regtest/blocks/blk*.dat
+!datadir/node0/regtest/blocks/xor.dat
+
+target/

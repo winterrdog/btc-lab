@@ -1,0 +1,2492 @@
+[
+  {
+    "address": "bcrt1p3vdcyr95peafkjjuqvvhytx0prl9ye9gqhh0m2rsl8c7uag5hy7qv0e6zj",
+    "amount": "0.00001000",
+    "rate": "0.00001000"
+  },
+  {
+    "address": "n4Ld9UxPimD6rghnbEekeYWZzCyvqCw5Ma",
+    "amount": "0.00430192",
+    "rate": "0.00002801"
+  },
+  {
+    "address": "bcrt1puglxa8xqtr9d05lgcc9ht07ycgyz0nq4tl3uc4azumvg9a7yrc0sldk2rl",
+    "amount": "0.00114468",
+    "rate": "0.00004602"
+  },
+  {
+    "address": "bcrt1q5a4drakhnu9ncmlq00j23tkc924zgjfnxje83r",
+    "amount": "0.01782519",
+    "rate": "0.00006404"
+  },
+  {
+    "address": "2MyGVdkisM1LjTpxKxV2QT6mg6DaX7yZJzW",
+    "amount": "0.00219895",
+    "rate": "0.00008205"
+  },
+  {
+    "address": "2MxsYzv1oEFRCv8MEc9Jn4o6ns86yw1AhUx",
+    "amount": "0.00732383",
+    "rate": "0.00010006"
+  },
+  {
+    "address": "mq4HHSyQxJty2kAab28zyEmc4PyTvrn3wq",
+    "amount": "0.02240086",
+    "rate": "0.00011807"
+  },
+  {
+    "address": "2NCSA5Qy41h7KAmrvimsF8gCaiP34m4TKDj",
+    "amount": "0.03872376",
+    "rate": "0.00013608"
+  },
+  {
+    "address": "mj1RLxDvMpT9Z5B8RpUBr3S1deRfKiYhc3",
+    "amount": "0.02711501",
+    "rate": "0.00015410"
+  },
+  {
+    "address": "mo8FXjfWWRMGmj14Vu4L2jnLU14r4t35xm",
+    "amount": "0.01095416",
+    "rate": "0.00017211"
+  },
+  {
+    "address": "bcrt1qf50xf0t8lnxnkhprn0e88hw7r7wye36n83pjp3",
+    "amount": "0.03433769",
+    "rate": "0.00019012"
+  },
+  {
+    "address": "2NBL3V6tLa3VENibnf6XCk1Pz1UFKzbhGiG",
+    "amount": "0.05434815",
+    "rate": "0.00020813"
+  },
+  {
+    "address": "mpD5gTKneAvW81UbRC5simUriEcDgLCbBh",
+    "amount": "0.04312794",
+    "rate": "0.00022614"
+  },
+  {
+    "address": "bcrt1q3w8pddgquv720axhdv268saf7uvtnxhcuymhgd",
+    "amount": "0.06247763",
+    "rate": "0.00024416"
+  },
+  {
+    "address": "2MwkCpTXv62gS3HxWhNxYnDtDcAeRg2EfSh",
+    "amount": "0.01633398",
+    "rate": "0.00026217"
+  },
+  {
+    "address": "n438XxEqKpQTxWk26rupnF9pafrxUjNhNC",
+    "amount": "0.05830050",
+    "rate": "0.00028018"
+  },
+  {
+    "address": "2N78EXhb99Mac1ex5PRvJxmF1ynFfKpRzyo",
+    "amount": "0.00317056",
+    "rate": "0.00029819"
+  },
+  {
+    "address": "bcrt1pjpu0rvfsn6z0x6rwrt5klvws4nnhcrc0nsuw25nuvwde4njpf8nqg93zeg",
+    "amount": "0.09635655",
+    "rate": "0.00031620"
+  },
+  {
+    "address": "mirPoGxrqVCCgketbdi5Ht3fWbZy2VkQCA",
+    "amount": "0.05007010",
+    "rate": "0.00033422"
+  },
+  {
+    "address": "2MyNcKTz6zaaPUbXCDg9gFsgU9xR7eCBWqS",
+    "amount": "0.10453632",
+    "rate": "0.00035223"
+  },
+  {
+    "address": "mvTh2ATHnqGJQDRGraNBe2ARyap46n48FL",
+    "amount": "0.01976439",
+    "rate": "0.00037024"
+  },
+  {
+    "address": "mw64MaQ1vofxohrLedgo8xmcyGJJkuhi8r",
+    "amount": "0.01564140",
+    "rate": "0.00038825"
+  },
+  {
+    "address": "bcrt1q38kcs5w3mk0ahu8cx3xz8jxh9znz7gjptcu89w",
+    "amount": "0.07437550",
+    "rate": "0.00040627"
+  },
+  {
+    "address": "bcrt1q5rs8zj24yrxm23shx5lu5tjm9lxs86v27sk72f",
+    "amount": "0.08620979",
+    "rate": "0.00042428"
+  },
+  {
+    "address": "bcrt1qjp5m2mzvs4v5fqny54w2y00a8q54cc2ssqzkmj",
+    "amount": "0.01334610",
+    "rate": "0.00044229"
+  },
+  {
+    "address": "n1DeYZ6A12DAxYz23dCNGYedCw43ktzFDq",
+    "amount": "0.03078982",
+    "rate": "0.00046030"
+  },
+  {
+    "address": "2NDMammEmiVRoLsu9TQvHAkj1HYKkXqpwfN",
+    "amount": "0.06201063",
+    "rate": "0.00047831"
+  },
+  {
+    "address": "mi3xnM9GzyenzZNqCd9rDHmngQDph3DMSs",
+    "amount": "0.14061142",
+    "rate": "0.00049633"
+  },
+  {
+    "address": "bcrt1px47hm23vwccp6qzttclvwkgz2rjyvrl7upxtx3rx6nn8khakuyvqqreqau",
+    "amount": "0.03815054",
+    "rate": "0.00051434"
+  },
+  {
+    "address": "bcrt1p205nedl2yc5pvkjt8ww686vt6t9z94ft2m6e2ugwwrhrjduf92zqrajecv",
+    "amount": "0.09749503",
+    "rate": "0.00053235"
+  },
+  {
+    "address": "bcrt1qwuzagucu02ncp4qy5cl8u6ct0un9kkd2vnurfn",
+    "amount": "0.12906424",
+    "rate": "0.00055036"
+  },
+  {
+    "address": "bcrt1pqww8jyxscl6fmsnrtedwxqjahxcgxmg2cfvnz0m7l4aktd6x5w9sceenyz",
+    "amount": "0.16860097",
+    "rate": "0.00056837"
+  },
+  {
+    "address": "mixKnfyy7YDLm2imBK9M8ycQAZ6pYUdZJi",
+    "amount": "0.05952394",
+    "rate": "0.00058639"
+  },
+  {
+    "address": "2MxdCBdPCn1Wn2SCbYZm1vhRutfXJX5WFZ1",
+    "amount": "0.16115678",
+    "rate": "0.00060440"
+  },
+  {
+    "address": "2N5UhcPi2wFLHUnweQZkHyfoiDyLe8yvav4",
+    "amount": "0.16293346",
+    "rate": "0.00062241"
+  },
+  {
+    "address": "bcrt1qwzclzsssspgyppsnqjct4qq7a6cepfuuj4tpj8",
+    "amount": "0.07476101",
+    "rate": "0.00064042"
+  },
+  {
+    "address": "2MtfGqCD8mu3R8XiUexWRe6cA8LmdXsNeLj",
+    "amount": "0.00029570",
+    "rate": "0.00065843"
+  },
+  {
+    "address": "bcrt1q8u323rvf5cnx00h6sn56wfd8amrnw29hp0ddcw",
+    "amount": "0.00199008",
+    "rate": "0.00067645"
+  },
+  {
+    "address": "bcrt1qwzsmn2mdegvhwrapuctc3l8tnd5dgxgsuxzf5n",
+    "amount": "0.08245356",
+    "rate": "0.00069446"
+  },
+  {
+    "address": "bcrt1pe2tvq8ulz86rxed79xnvac2zkqzu3claxhezmnjuqhayh2tps3yqw64szz",
+    "amount": "0.06993605",
+    "rate": "0.00071247"
+  },
+  {
+    "address": "2NBqcv4T1wTmpWwLXju8TWsTR386AT9v3f7",
+    "amount": "0.06238200",
+    "rate": "0.00073048"
+  },
+  {
+    "address": "bcrt1pvlc2tep3es5rrpvdp73wdyv5jx4llnsf5jyj982w7fqe9nqxl8hqrrlf7k",
+    "amount": "0.21485201",
+    "rate": "0.00074849"
+  },
+  {
+    "address": "n4QF6CF5WWZiVMp9RFe1hkggtN1HUVKkei",
+    "amount": "0.11134228",
+    "rate": "0.00076651"
+  },
+  {
+    "address": "2MzSvZW8PYWyVpahppSQz5Uu8LPRve499Yw",
+    "amount": "0.16390684",
+    "rate": "0.00078452"
+  },
+  {
+    "address": "2MtQRVA3WA13byKkh7idY8a6vfFC5rE4ER2",
+    "amount": "0.20295403",
+    "rate": "0.00080253"
+  },
+  {
+    "address": "2N9hkXDL31TjReQXiEwqXA14wXernDUPEPs",
+    "amount": "0.05217147",
+    "rate": "0.00082054"
+  },
+  {
+    "address": "bcrt1plcznzz8dj8lugd3k0urn9t7r39qk8whhuxlj40cgzc7xquez8p0qnmd5kt",
+    "amount": "0.14055198",
+    "rate": "0.00083855"
+  },
+  {
+    "address": "2NANcsEo7pS14SbNTPd9VJ9en7mRZZ5jce9",
+    "amount": "0.19781358",
+    "rate": "0.00085657"
+  },
+  {
+    "address": "bcrt1ps22azpkqzajm7lzlxy7ramr04uy27f7ndcgtqlax4ty2gkxk04rs7zjjqw",
+    "amount": "0.22175965",
+    "rate": "0.00087458"
+  },
+  {
+    "address": "bcrt1pcdz9ju7yr5ckkyswfpucvtycf945tev4gsjuup506yuq4grf79xqgk8fnx",
+    "amount": "0.27649516",
+    "rate": "0.00089259"
+  },
+  {
+    "address": "2NGEZsvEYvRjemapoZhU2NNtqJDxc4Cf9WS",
+    "amount": "0.19500751",
+    "rate": "0.00091060"
+  },
+  {
+    "address": "2NC7UnAat3Z8QED5PiWKvXRkteG535JGyUW",
+    "amount": "0.14642365",
+    "rate": "0.00092861"
+  },
+  {
+    "address": "bcrt1qlajg0gs2663r3n02g9h7932zln7ej77mcft6v6",
+    "amount": "0.26850398",
+    "rate": "0.00094663"
+  },
+  {
+    "address": "2MsdbURVh3fhKKjGpqXuTw4Ebb7XFeTDSTF",
+    "amount": "0.16496955",
+    "rate": "0.00096464"
+  },
+  {
+    "address": "2N4DnMcyddQgQVX4Zfr1WZ3TxxybCmNzG2h",
+    "amount": "0.24764112",
+    "rate": "0.00098265"
+  },
+  {
+    "address": "2N7h42ippYbay8PrjqvEpMVMPKnk672uX5c",
+    "amount": "0.30002083",
+    "rate": "0.00100066"
+  },
+  {
+    "address": "bcrt1ptnjgsm8a3dhrmekdev42x7n2wjj58dsk6p6wunaul3wenxeegdqqtuc0hh",
+    "amount": "0.04907427",
+    "rate": "0.00101867"
+  },
+  {
+    "address": "bcrt1qjxt6snvwd5pdq95ttt977af90a024q8sw7js0f",
+    "amount": "0.08949069",
+    "rate": "0.00103669"
+  },
+  {
+    "address": "bcrt1p6s4kzdlhptpnnndt96rmj0t7m9ntary398gyny03lhdr9kvucwks0n89nt",
+    "amount": "0.25301068",
+    "rate": "0.00105470"
+  },
+  {
+    "address": "bcrt1ptr5vqankcacgd3m799mhucvghmnqgx9hlm5xqur9uplg353jxduq4kyh7q",
+    "amount": "0.04172607",
+    "rate": "0.00107271"
+  },
+  {
+    "address": "mzbCbp7bGHMRgjXgoXus6JPK4hivguRVkT",
+    "amount": "0.15811219",
+    "rate": "0.00109072"
+  },
+  {
+    "address": "bcrt1pezvss62dgtsag3uzu6pya76x5eqpvv4288epgntwmcv78y97uxes8tgfw0",
+    "amount": "0.20776293",
+    "rate": "0.00110873"
+  },
+  {
+    "address": "bcrt1q05rfwacem052u2aze9ychm5x0p8hw5skhqww99",
+    "amount": "0.01400100",
+    "rate": "0.00112675"
+  },
+  {
+    "address": "2MtxkiH7qp7911GdPH1opPG52wEpJraNqnu",
+    "amount": "0.28955943",
+    "rate": "0.00114476"
+  },
+  {
+    "address": "mjh4GLpWZTxQVhpLHUy4QyNYyR3yd8uFLr",
+    "amount": "0.33874354",
+    "rate": "0.00116277"
+  },
+  {
+    "address": "bcrt1q2078jefw7356eya3g3sh8x3am6jvj0t3ny28up",
+    "amount": "0.21531479",
+    "rate": "0.00118078"
+  },
+  {
+    "address": "bcrt1pawul8jlud7tzthhplzgag9pkrl4d9gwygl9sc6lrrd0ja8jvuv6qzmnkma",
+    "amount": "0.13810947",
+    "rate": "0.00119880"
+  },
+  {
+    "address": "bcrt1qazuvnmddrdvx2dmms2x7naqke7uydzcfegjqj3",
+    "amount": "0.04699295",
+    "rate": "0.00121681"
+  },
+  {
+    "address": "bcrt1pghklwgcp599d7yrnejkcadyqflky3a5v3ykr405p9ew9y2k09v0spnvj7w",
+    "amount": "0.05983161",
+    "rate": "0.00123482"
+  },
+  {
+    "address": "bcrt1p4qjzfwnm88fpwylepnk2wvk7axfrac4cnqugx26exyg9v2u5fz9ss00j04",
+    "amount": "0.05637990",
+    "rate": "0.00125283"
+  },
+  {
+    "address": "bcrt1pzj2kv76jzqu05r9wpku9z696wp0ek8uu43ad79vslnc896e7xvmqucjv5x",
+    "amount": "0.34020701",
+    "rate": "0.00127084"
+  },
+  {
+    "address": "n3uNm9vHkJ3PmCXFn38mM9pyXJn62DxNv6",
+    "amount": "0.01471337",
+    "rate": "0.00128886"
+  },
+  {
+    "address": "bcrt1pdtjtwc5lyh5jfnq2czxtcnlrckjwapl9pd079dy4r9ekaysfn27su7kca0",
+    "amount": "0.31055695",
+    "rate": "0.00130687"
+  },
+  {
+    "address": "2NABaSZ148vUoVEJc1zCZWphxihrQxmRrQs",
+    "amount": "0.37292556",
+    "rate": "0.00132488"
+  },
+  {
+    "address": "bcrt1ppy6r0hj6twfax3gn9z357lmt674q6mjtn2y62lfscqfl4r82up5qnzqewz",
+    "amount": "0.12359874",
+    "rate": "0.00134289"
+  },
+  {
+    "address": "bcrt1p0zykddx8s8cjp6m9hruye02d6xs8kk0e4pe6dvgxatx8s56fufsqr4jl7k",
+    "amount": "0.13178446",
+    "rate": "0.00136090"
+  },
+  {
+    "address": "mrnaqFDK1QzdjnFz7XaqJfBDGtRvzM17E8",
+    "amount": "0.41397669",
+    "rate": "0.00137892"
+  },
+  {
+    "address": "bcrt1q5xj3mdxmfz07ykp5v9x4r00udsjgwlskjsnl74",
+    "amount": "0.25251179",
+    "rate": "0.00139693"
+  },
+  {
+    "address": "ms1XhgisLemAAUgwR3mLaRi1Ci8k7mydd3",
+    "amount": "0.44921219",
+    "rate": "0.00141494"
+  },
+  {
+    "address": "bcrt1pzs3mgtmvzq9ruyhns9fdm2kj2f8w3q6vch5cphdm5cn28zdd6zmsdzmrfp",
+    "amount": "0.09116868",
+    "rate": "0.00143295"
+  },
+  {
+    "address": "bcrt1pufkczl8g00psrmvzacrdmm02dtex6r32khw27gkz073cw6eah6fsys73q3",
+    "amount": "0.44105124",
+    "rate": "0.00145096"
+  },
+  {
+    "address": "bcrt1q62f7h63r7n73rft9xvlz4kqkzy0udy42l96hn8",
+    "amount": "0.39619399",
+    "rate": "0.00146898"
+  },
+  {
+    "address": "mzSwd1jbfzqhVSyV3DGCuFtcCnLbKE9QRy",
+    "amount": "0.22307627",
+    "rate": "0.00148699"
+  },
+  {
+    "address": "bcrt1qff7gvnnhcf32tqge724pfr2upzctnn3jkj4wmn",
+    "amount": "0.17503287",
+    "rate": "0.00150500"
+  },
+  {
+    "address": "bcrt1p9muxg7xcwx6quq8f3q9640vp58zuqp66pd7mem63st3esug3tvhq4mwns0",
+    "amount": "0.00520018",
+    "rate": "0.00152301"
+  },
+  {
+    "address": "2NCaUbSWZktjLJno6vv8VYiGMu2HowTCdWh",
+    "amount": "0.21956446",
+    "rate": "0.00154102"
+  },
+  {
+    "address": "mxbQ8T6CuxpGSkuYeHC8UyLJnJgSbUArZU",
+    "amount": "0.38326180",
+    "rate": "0.00155904"
+  },
+  {
+    "address": "2MzyxFcYsW8877ZuNaGoKi1zuAZyKreALeG",
+    "amount": "0.37677594",
+    "rate": "0.00157705"
+  },
+  {
+    "address": "bcrt1ps2pl25c929s0nleuvt4zhwp5qzdzkvhhtsyrxd9ve946g9ksldpsg67qz6",
+    "amount": "0.23102915",
+    "rate": "0.00159506"
+  },
+  {
+    "address": "bcrt1pltdnydkxyqfhzh8pxc9k600vrtmv67zh66sllqzudt25p7rw6v0ss0q4s0",
+    "amount": "0.39439520",
+    "rate": "0.00161307"
+  },
+  {
+    "address": "mw3oyG97gpnovAM6eLyXtzQTmgtfXQXGkF",
+    "amount": "0.26994231",
+    "rate": "0.00163108"
+  },
+  {
+    "address": "bcrt1phewxml9rxmrda62xw2ujqswayrdynh5wjgtavw9fykzwz8r3celsaaghfl",
+    "amount": "0.20427998",
+    "rate": "0.00164910"
+  },
+  {
+    "address": "mvxBC3vBK5qsKbPCfjpMKYixuPGAS5KD5P",
+    "amount": "0.49394630",
+    "rate": "0.00166711"
+  },
+  {
+    "address": "2MuoJGKaaiwg9FXiCTY8Kntj56cokLUrpjn",
+    "amount": "0.19599562",
+    "rate": "0.00168512"
+  },
+  {
+    "address": "mtzzNf225rmfbCZXpEJdaCzZrPrJNSSGCL",
+    "amount": "0.44737397",
+    "rate": "0.00170313"
+  },
+  {
+    "address": "bcrt1qpuzz2xch2d58ewygc8hr5wgedfdyqycg5hy0hj",
+    "amount": "0.38614695",
+    "rate": "0.00172114"
+  },
+  {
+    "address": "bcrt1pgqvhucu4szvlyuxtp9f4u50z52w7dr7u98nxx3fnmpuka8qeeceqg4uvzq",
+    "amount": "0.56309400",
+    "rate": "0.00173916"
+  },
+  {
+    "address": "n4ALFdvzY9gXoSJ7HxP6w1cwbrx1229NmR",
+    "amount": "0.03434761",
+    "rate": "0.00175717"
+  },
+  {
+    "address": "bcrt1qlqm684czef2ajc05ta7uky8mlds7l83ls0e06v",
+    "amount": "0.40287047",
+    "rate": "0.00177518"
+  },
+  {
+    "address": "mq21KLB4nZrwCCvqJqUX6F4NNaea8EWYwU",
+    "amount": "0.25134632",
+    "rate": "0.00179319"
+  },
+  {
+    "address": "msHbqB7hvTgvVbgucGAMAW38tnSTDj1MCQ",
+    "amount": "0.49689737",
+    "rate": "0.00181120"
+  },
+  {
+    "address": "bcrt1pnknm3vzwq5tc9tuw5t6gf37rtwhman6p45d0vlnz03dy2mynwynqerz4jx",
+    "amount": "0.51920288",
+    "rate": "0.00182922"
+  },
+  {
+    "address": "bcrt1qtxc5uxk5qnlrh897sn3v5cng7aq4ayxdef6p7u",
+    "amount": "0.12390444",
+    "rate": "0.00184723"
+  },
+  {
+    "address": "bcrt1q75xnym8gpww8csmq9dderr70ptvt797xh73s3n",
+    "amount": "0.05720702",
+    "rate": "0.00186524"
+  },
+  {
+    "address": "bcrt1pq52w6986w5nsya7t7cft5s2uednmxupkef5kl42ke4d4pdhxnxls93nr7s",
+    "amount": "0.14511011",
+    "rate": "0.00188325"
+  },
+  {
+    "address": "mjHcqkpTa2UrrxzLP8o9xa5mMsMMCXNRqe",
+    "amount": "0.32025515",
+    "rate": "0.00190127"
+  },
+  {
+    "address": "mpjjmUXPs95PQZRe3q2w5ksUH6YN14se6F",
+    "amount": "0.16643729",
+    "rate": "0.00191928"
+  },
+  {
+    "address": "2Mt8s3hL4MgpSYRJaiMwvnbbHTtMqJ4FTk5",
+    "amount": "0.58364870",
+    "rate": "0.00193729"
+  },
+  {
+    "address": "bcrt1pku8w4ut93kxtdjqnj3ly94rvan5dmyjlt0p90yt8yufnspxx0g3sqp406g",
+    "amount": "0.44008114",
+    "rate": "0.00195530"
+  },
+  {
+    "address": "bcrt1qnutndcjvqewk9jt7ls70q6x9dga6d6z83c0y9l",
+    "amount": "0.45356646",
+    "rate": "0.00197331"
+  },
+  {
+    "address": "bcrt1p64xrcarqqvfrd3j3080p4k83r0l7qzxaln8ecqx8rgc5pmpnzkwsxxndgq",
+    "amount": "0.20023584",
+    "rate": "0.00199133"
+  },
+  {
+    "address": "bcrt1qfc98cnzsgjmfg09j5nkjawsz2v8x42k6seua7c",
+    "amount": "0.64961008",
+    "rate": "0.00200934"
+  },
+  {
+    "address": "2N6TJ4iXyF5JX6d6m8DbcHX3EBhLttvf3ZB",
+    "amount": "0.65834034",
+    "rate": "0.00202735"
+  },
+  {
+    "address": "bcrt1pss5zdnsfk3ufgwy7fnkyngelzhyq0w5fqawakhdvfkdydeym73nsszg2ua",
+    "amount": "0.18374356",
+    "rate": "0.00204536"
+  },
+  {
+    "address": "bcrt1qtgfrq4r8sc267zanm38kwzj8wa7x3ht48e6ctf",
+    "amount": "0.53962726",
+    "rate": "0.00206337"
+  },
+  {
+    "address": "my2uU5KYjEM2wVhu27kdPw8wEcKAGejhKD",
+    "amount": "0.19742591",
+    "rate": "0.00208139"
+  },
+  {
+    "address": "bcrt1qfhszpq7j5sj3h3gzskey3mszclcqapaykdrty0",
+    "amount": "0.63446384",
+    "rate": "0.00209940"
+  },
+  {
+    "address": "bcrt1qfc8xh3chwhw3gs3sr5k30axz82u65g2dtja3xt",
+    "amount": "0.08784880",
+    "rate": "0.00211741"
+  },
+  {
+    "address": "bcrt1ptrz6hjssyx3t89pp8qnuzp2yrtwlq0fcsgdh2jv8qg8jnjvkj47s9pnay9",
+    "amount": "0.34945503",
+    "rate": "0.00213542"
+  },
+  {
+    "address": "n2gC9QgfQogcRzENXk3pCJSoTpNUbvwKj7",
+    "amount": "0.09576640",
+    "rate": "0.00215343"
+  },
+  {
+    "address": "bcrt1p0mweapr3hl704dx4stl3fpfdjjrn48hvzwkqh23tfn0svw70hlhsgl972t",
+    "amount": "0.31925606",
+    "rate": "0.00217145"
+  },
+  {
+    "address": "bcrt1prcgw6m05ptzrm85ew4a73x9u29883k0nuu9ucertj0nscdf9yxyq5ekmn2",
+    "amount": "0.25061653",
+    "rate": "0.00218946"
+  },
+  {
+    "address": "bcrt1pu62uczv439htzzjjulpu924wg4y9ul23yws7sswgq7qhcfh84zusedz854",
+    "amount": "0.56303125",
+    "rate": "0.00220747"
+  },
+  {
+    "address": "miaaKsigcnfm2dX8JXtygF8roURo7yMe8c",
+    "amount": "0.53438798",
+    "rate": "0.00222548"
+  },
+  {
+    "address": "mruPVGag2P5dtPWLxrVw9mM23eP39ffj4u",
+    "amount": "0.41649651",
+    "rate": "0.00224349"
+  },
+  {
+    "address": "bcrt1pghgwphp9zprfu7kr48jqlw06qhhf8hpcznua6n63xvknz3munprqk45cn8",
+    "amount": "0.29116067",
+    "rate": "0.00226151"
+  },
+  {
+    "address": "mfvqYo8uyxuGXT6EjCkDaZgsYjhAewAdUn",
+    "amount": "0.44933357",
+    "rate": "0.00227952"
+  },
+  {
+    "address": "bcrt1q2yqkev4thn8n9dgvkqyjdm73cmjs4py5hzummy",
+    "amount": "0.02372075",
+    "rate": "0.00229753"
+  },
+  {
+    "address": "2MsNxxFYVrimMXWGP92ttdRkstYbAot7gfn",
+    "amount": "0.07940645",
+    "rate": "0.00231554"
+  },
+  {
+    "address": "bcrt1psfktyq9g9rxyh84rex39ul9uqyywpe6ge5eyrl20r3hmnptqhdjsqk2929",
+    "amount": "0.35752130",
+    "rate": "0.00233355"
+  },
+  {
+    "address": "2MuFwA6SZYqcZvcRd8GiLjy32WEPM4K9eJ4",
+    "amount": "0.72924514",
+    "rate": "0.00235157"
+  },
+  {
+    "address": "mnogPuYXaMYGMmjB2c2MR41oFb9BF4Prfi",
+    "amount": "0.50694623",
+    "rate": "0.00236958"
+  },
+  {
+    "address": "2N44VNG4yTeqFzEjr9u1XNVaU4DDwZVmNvz",
+    "amount": "0.71903240",
+    "rate": "0.00238759"
+  },
+  {
+    "address": "bcrt1qtrp9ylzfu8mjzcu7xxk72atrrrsvkwtn78rwl3",
+    "amount": "0.66934954",
+    "rate": "0.00240560"
+  },
+  {
+    "address": "bcrt1q5vg90zmr6uukm2p9f6qedn3elqnu74gufken4c",
+    "amount": "0.59585976",
+    "rate": "0.00242361"
+  },
+  {
+    "address": "bcrt1q93gga7s45wr2px6zz34rtd2xlckydfh4tfrhyr",
+    "amount": "0.79885783",
+    "rate": "0.00244163"
+  },
+  {
+    "address": "2NATqebuexxnhisMUhwpSmPdUCFqRLAPfMx",
+    "amount": "0.58267357",
+    "rate": "0.00245964"
+  },
+  {
+    "address": "bcrt1qsm6ttwpgtfj2m2h2xfk0kp8rv9yg59yylryjv2",
+    "amount": "0.00375476",
+    "rate": "0.00247765"
+  },
+  {
+    "address": "mmQ3M6cucJu4fFstJ8AYSgSbop56eMbcvi",
+    "amount": "0.23752177",
+    "rate": "0.00249566"
+  },
+  {
+    "address": "bcrt1pnsrfe289pwv543htsczq29ghsmmtdvv9ygqd35lq4t8vkrmmccyqzsmrfj",
+    "amount": "0.67079531",
+    "rate": "0.00251367"
+  },
+  {
+    "address": "bcrt1p82f7ukujm2sw3akuxr0y0d0u7xjtumt6xqxl42pt5kefeak5svuq0wf9sg",
+    "amount": "0.71953139",
+    "rate": "0.00253169"
+  },
+  {
+    "address": "n42hDDYSTfAQWoRnz2aLxYXivYFGxxtZTi",
+    "amount": "0.12306206",
+    "rate": "0.00254970"
+  },
+  {
+    "address": "mvSeCmJosCgFj62jzcSdk6CqMVo2ZBRvqi",
+    "amount": "0.26136802",
+    "rate": "0.00256771"
+  },
+  {
+    "address": "mn4Cp82xxyv6YkmpGeBkquCszWp2vpfWkA",
+    "amount": "0.45899535",
+    "rate": "0.00258572"
+  },
+  {
+    "address": "bcrt1p5sld6pma3k0apxdsf29mq5z9z8qx6c2p4epzc5l8dyzd87jz7dwq2tjp4y",
+    "amount": "0.38193612",
+    "rate": "0.00260373"
+  },
+  {
+    "address": "mn8LMt5YnWayLbVEVYZSDNWvKJcXZaPqkU",
+    "amount": "0.07824637",
+    "rate": "0.00262175"
+  },
+  {
+    "address": "2N6K4U61GQdYFyQYkZHv8ePGB8XBhrcsWSd",
+    "amount": "0.18062513",
+    "rate": "0.00263976"
+  },
+  {
+    "address": "bcrt1q3e77mx06h2cr9ywysuw52y2nymej8c96a3qu20",
+    "amount": "0.62376585",
+    "rate": "0.00265777"
+  },
+  {
+    "address": "mzSXa69tvvMyUG4ZSB4K8zXJ4z6h965DoP",
+    "amount": "0.59885958",
+    "rate": "0.00267578"
+  },
+  {
+    "address": "bcrt1qjt00adwtls0nv4ke8ddz7u9c8acdn6uzwk3rdp",
+    "amount": "0.75542085",
+    "rate": "0.00269380"
+  },
+  {
+    "address": "mxHSTgg6sMGcvXT7u4JQAHxLnZNFaoLyGA",
+    "amount": "0.05042468",
+    "rate": "0.00271181"
+  },
+  {
+    "address": "bcrt1pnqmuwze5zu2duq3n3ujvr2je08z5zq58w5s49rupyvx6lm4k60wqsavtl6",
+    "amount": "0.60592653",
+    "rate": "0.00272982"
+  },
+  {
+    "address": "2Mtq5jEsJVkfowL1vk4UDXQBj6JVPX6WNTA",
+    "amount": "0.77494503",
+    "rate": "0.00274783"
+  },
+  {
+    "address": "2MtBxagtnzsw6kS47wrKWiczTozayVceSSH",
+    "amount": "0.53564669",
+    "rate": "0.00276584"
+  },
+  {
+    "address": "mfYuNuf4RU1tpYy91p86v3boqTDLQDS9J3",
+    "amount": "0.46984642",
+    "rate": "0.00278386"
+  },
+  {
+    "address": "bcrt1q3p72r86h7suy45m5q79prmux67dk4cdr2a7k7u",
+    "amount": "0.31196072",
+    "rate": "0.00280187"
+  },
+  {
+    "address": "bcrt1pmhrp08m8s7zvusf8dd4xkvc8h3q5pt97h3gqufh95gtp0u0x2xlsq8d2mu",
+    "amount": "0.13804303",
+    "rate": "0.00281988"
+  },
+  {
+    "address": "mtC4om5zoYmHxuYsRQM3QY6SVrMaf8iVAY",
+    "amount": "0.61677931",
+    "rate": "0.00283789"
+  },
+  {
+    "address": "mwMvZk1vdpfQHwBEoPzxDHwjKszLcME9UM",
+    "amount": "0.49771312",
+    "rate": "0.00285590"
+  },
+  {
+    "address": "mnnBFe9UzTK783mUGYg9dZDAUkrHn4R8JM",
+    "amount": "0.78933209",
+    "rate": "0.00287392"
+  },
+  {
+    "address": "bcrt1qavs8c4ag36dkc8l8y2xat40aad4x3d2fyr4t06",
+    "amount": "0.60822579",
+    "rate": "0.00289193"
+  },
+  {
+    "address": "bcrt1pxghhp26h6e0xlxxjhk4vqpuklgcd28jdj7jawjntlrswsf7v5nyqrtn0nq",
+    "amount": "0.67402876",
+    "rate": "0.00290994"
+  },
+  {
+    "address": "mzuCZtxqy2TRe25CaUrw8QMPpq13LDEaF5",
+    "amount": "0.38317631",
+    "rate": "0.00292795"
+  },
+  {
+    "address": "bcrt1pyvcmnd6vx7vyr3p327skapydrxcy0jq6hem0gkrqa7umytrhpltstuwlxj",
+    "amount": "0.29154150",
+    "rate": "0.00294596"
+  },
+  {
+    "address": "bcrt1qhvs2fn4h9gc84x9zx3sg3fuxy06paquadz6njy",
+    "amount": "0.80430747",
+    "rate": "0.00296398"
+  },
+  {
+    "address": "2MsqhWZXKGbL6iG275pAEWr12X33cXVhUnU",
+    "amount": "0.95000463",
+    "rate": "0.00298199"
+  },
+  {
+    "address": "bcrt1pp83f266fjs3uchnt9dzzp75ea8hp8q6msxpkya5dg3zk9ehwmx3s5dmv6q",
+    "amount": "0.63387487",
+    "rate": "0.00001000"
+  },
+  {
+    "address": "n375dfVRinqd6V31KyrG7dTSs1w3WazYAU",
+    "amount": "0.24979221",
+    "rate": "0.00002801"
+  },
+  {
+    "address": "bcrt1pjaq02vguu78yaayv9sml97x6yxg34gzzh8l9ae2vt9mskzlrw3pqedhlng",
+    "amount": "0.08579714",
+    "rate": "0.00004602"
+  },
+  {
+    "address": "2N4G4nv9D15tfj9KVgCioo6HsJti5z8tzFL",
+    "amount": "0.13717010",
+    "rate": "0.00006404"
+  },
+  {
+    "address": "mi32nYhP1nCmV95cxUpEgtR4A1EtrqTatV",
+    "amount": "0.63456716",
+    "rate": "0.00008205"
+  },
+  {
+    "address": "mwqsuMgiJkYxUmTA6B8W9WdFxgqpa2CrSb",
+    "amount": "0.32339544",
+    "rate": "0.00010006"
+  },
+  {
+    "address": "bcrt1pwshyvwghgnvrqq5lmnca230tgch2sr9tsj2qa8v5qcnevqxhy3esl5ue4h",
+    "amount": "0.25282633",
+    "rate": "0.00011807"
+  },
+  {
+    "address": "2MvX27QodAaZ15H26ZWyaxxmDq1J3hStsiL",
+    "amount": "0.45621982",
+    "rate": "0.00013608"
+  },
+  {
+    "address": "bcrt1plv6pry7ttxvq0lqc0cm8zcgsmg7xung0epd66lh5h48f7eg4hsrs7zm5vf",
+    "amount": "0.10544605",
+    "rate": "0.00015410"
+  },
+  {
+    "address": "2MzYstef1HD3zMTvmCaMq4f1menh6j8WAvB",
+    "amount": "0.04702834",
+    "rate": "0.00017211"
+  },
+  {
+    "address": "2MtVuxyvyXvdA1KuBJMue1xjU68fAN5AtP9",
+    "amount": "0.82252179",
+    "rate": "0.00019012"
+  },
+  {
+    "address": "muXVAFe7qTDXHsoN4CKrp7t7Cvr7NDfNyG",
+    "amount": "0.90092278",
+    "rate": "0.00020813"
+  },
+  {
+    "address": "2N6A64JiehyrGQjL7Sjs3Vc1nGeaRTSvriX",
+    "amount": "0.18890073",
+    "rate": "0.00022614"
+  },
+  {
+    "address": "bcrt1qkul2kf2ra99sduluwm88lqy6dxe68kc90j94um",
+    "amount": "0.62272354",
+    "rate": "0.00024416"
+  },
+  {
+    "address": "2N2yRentTVJSm5YFpUf52J5iZBNrQwVXzwi",
+    "amount": "0.25847696",
+    "rate": "0.00026217"
+  },
+  {
+    "address": "bcrt1pkksl33elz8n9uly8m74vnhtp59flxlnx5r8350grl94jx4ghgxgs3mn8rw",
+    "amount": "0.88509507",
+    "rate": "0.00028018"
+  },
+  {
+    "address": "bcrt1pgl27fnc9le80u4jqlt7h7nwte4dxu7nz3cqnv9usph7pf6xtf67qkc8eud",
+    "amount": "0.27865306",
+    "rate": "0.00029819"
+  },
+  {
+    "address": "2N2QE3NeQ36tk821ShzesFftE2uHMgAMozK",
+    "amount": "0.23004463",
+    "rate": "0.00031620"
+  },
+  {
+    "address": "2NETsEy83pPLMVH2oMYNVProbbFVvMJGL6P",
+    "amount": "0.34757261",
+    "rate": "0.00033422"
+  },
+  {
+    "address": "2MzjubLrYeJu32SjrtQ3LHdBKkeigfAjm4N",
+    "amount": "0.77345571",
+    "rate": "0.00035223"
+  },
+  {
+    "address": "bcrt1pzrjjymkedxke4ulqul0ny5enfhtec3x87ncvlf0l9sln5n6ddehsj5zxan",
+    "amount": "0.67642901",
+    "rate": "0.00037024"
+  },
+  {
+    "address": "2Mtrrx9bQLBR7VNrhFShwkN9Z1Bpti2A2Np",
+    "amount": "0.18590089",
+    "rate": "0.00038825"
+  },
+  {
+    "address": "2Mukci9SKmhnMFSgGTic4v5PNzhX16HG1AU",
+    "amount": "0.12118933",
+    "rate": "0.00040627"
+  },
+  {
+    "address": "mwmskAifqTBaChensfZtmFuxMTgwtMLWUD",
+    "amount": "0.47297224",
+    "rate": "0.00042428"
+  },
+  {
+    "address": "mkYWpvgm6C3LP81kdopy4p1xLmkqmHTWnA",
+    "amount": "0.07419505",
+    "rate": "0.00044229"
+  },
+  {
+    "address": "bcrt1pvemk5vw89j8s7mm2e2n8prjlm6ja33r4z6p3z2fjw04y2x4jjztqrk9jxp",
+    "amount": "0.81267971",
+    "rate": "0.00046030"
+  },
+  {
+    "address": "bcrt1q5h0hd70ahzfqt0uadcr54jyg8cs6yxg2pt665y",
+    "amount": "0.48947180",
+    "rate": "0.00047831"
+  },
+  {
+    "address": "moTfXVL4gHWGBMsxFwRQmij19ZnmxqgVro",
+    "amount": "0.30039273",
+    "rate": "0.00049633"
+  },
+  {
+    "address": "bcrt1p8g8n5wd28cr26926z8x5h4gcu8epjx8zn57gfrx0d64klmhzedtqfyk2jh",
+    "amount": "0.21798044",
+    "rate": "0.00051434"
+  },
+  {
+    "address": "bcrt1pdya93j6z6djrlkmuh30m6vzxrpslz2t9wf3n9ff2qdtffuvh2wusm4djr8",
+    "amount": "0.82519824",
+    "rate": "0.00053235"
+  },
+  {
+    "address": "2NF9K7aTR24z6CCzU5Uc1X3bPAqF9Yh1T8s",
+    "amount": "0.29735433",
+    "rate": "0.00055036"
+  },
+  {
+    "address": "bcrt1p59dstxe7yd8tgsh8hkgyke8mmg4q03ewctc475zz5lcyxzlv7wyqjg3g76",
+    "amount": "0.39728650",
+    "rate": "0.00056837"
+  },
+  {
+    "address": "bcrt1qvrxpewuqfufh93g95hlx95xmltnt3xm6x8h43d",
+    "amount": "0.22193769",
+    "rate": "0.00058639"
+  },
+  {
+    "address": "bcrt1pxtlv3k80cnyfm7j4ka2cmax4cp4zm078gt8sng27um4zcjckmn7qlr3t97",
+    "amount": "0.84757348",
+    "rate": "0.00060440"
+  },
+  {
+    "address": "bcrt1pqg6d7nmj6ccgaw3jny3y9v2k6lxg9ty2nn3uhxnly0ue4sdctryspgnugq",
+    "amount": "0.56017200",
+    "rate": "0.00062241"
+  },
+  {
+    "address": "mqzpz69sjWBcu1eJSARyuXL92a3mo1JMMp",
+    "amount": "0.36240900",
+    "rate": "0.00064042"
+  },
+  {
+    "address": "2NG5yoqK6VdqcLyc7i1vrMhiam5qgCFVMCz",
+    "amount": "0.56713184",
+    "rate": "0.00065843"
+  },
+  {
+    "address": "bcrt1qqqfau30dvm02z44uhs25l0q53rkz39p2m7kvxt",
+    "amount": "0.07067643",
+    "rate": "0.00067645"
+  },
+  {
+    "address": "bcrt1pp0w6k5gg7jd58tpwkl935hpvzrgtn422rxask2n5qxshpn0s0rasl06kw3",
+    "amount": "0.31550129",
+    "rate": "0.00069446"
+  },
+  {
+    "address": "mriDf6HLE7J78nzdPVUVtbvXmFn3oBW7AF",
+    "amount": "0.82015119",
+    "rate": "0.00071247"
+  },
+  {
+    "address": "bcrt1pmcnzuyk5g784zuju45xfae5gapw04vh5jv7m3mrvulys83jt48qq4n56lu",
+    "amount": "0.11648177",
+    "rate": "0.00073048"
+  },
+  {
+    "address": "mtX6s11XuEUNmQxeVBxwmjYU9DbhyQkzSE",
+    "amount": "0.54299406",
+    "rate": "0.00074849"
+  },
+  {
+    "address": "bcrt1pdzhyace785prdy5he7wv9e4ka99msyfzgjefqp3ctuyksefsrz6szzd8er",
+    "amount": "1.21165569",
+    "rate": "0.00076651"
+  },
+  {
+    "address": "bcrt1qpxx6lc4afl6dyd7m3u70ysy8jp32cq8rer8plv",
+    "amount": "0.67254611",
+    "rate": "0.00078452"
+  },
+  {
+    "address": "2NDz2g5GtvChbRGeSZco14ErnAwFXCy8LdR",
+    "amount": "0.80269628",
+    "rate": "0.00080253"
+  },
+  {
+    "address": "bcrt1p3c3hazt6lnf3zazmy5g42n3aweesjhwgfhvwmd4sd4czpgjhkqcqtz6jv0",
+    "amount": "0.34240987",
+    "rate": "0.00082054"
+  },
+  {
+    "address": "2N7uM5SkfnPRHcec4fqrP6o6fegujBbhJTQ",
+    "amount": "0.70012196",
+    "rate": "0.00083855"
+  },
+  {
+    "address": "bcrt1pahp7z7w77xmuddzq0djera7hpdr50kxft3vqd8vxe7hyc3ywf0hqx48yjy",
+    "amount": "0.69044996",
+    "rate": "0.00085657"
+  },
+  {
+    "address": "bcrt1qq3n4z87dtgglmet3dd78j39glxnu3p75cyd8wl",
+    "amount": "0.98351049",
+    "rate": "0.00087458"
+  },
+  {
+    "address": "bcrt1p65ztay0jkd6wy7486nqxuv6a8akd6xdn0vtrnlvy952jf0apwkjsmdssdt",
+    "amount": "0.94838831",
+    "rate": "0.00089259"
+  },
+  {
+    "address": "bcrt1q0c5ux9n7vsqskmf28u2kusnen223tm0hyxrruu",
+    "amount": "0.10191861",
+    "rate": "0.00091060"
+  },
+  {
+    "address": "mmucZnwSNfGGscuzYHyRiVLt6f1C9wupFP",
+    "amount": "0.70770489",
+    "rate": "0.00092861"
+  },
+  {
+    "address": "mh69Go4ks23mxVw8LD2RzznGdBF5abQ5DT",
+    "amount": "0.05463627",
+    "rate": "0.00094663"
+  },
+  {
+    "address": "2NDgK8FUMAwnje13xu1sdkDnjWfAXK6CsXd",
+    "amount": "1.27923065",
+    "rate": "0.00096464"
+  },
+  {
+    "address": "muG7tpmD3gqiwcN2D8dUMrkvagKLyKzvEb",
+    "amount": "0.62067077",
+    "rate": "0.00098265"
+  },
+  {
+    "address": "2Myd84xnWd3RttZuZs6hv5RXm1cR6dcKTz3",
+    "amount": "0.54514051",
+    "rate": "0.00100066"
+  },
+  {
+    "address": "2N8M22V4wL59JhxU8MqKRGxZjatgNBkCYT2",
+    "amount": "1.12316250",
+    "rate": "0.00101867"
+  },
+  {
+    "address": "bcrt1pl7qfyth0wp4vfsjndl3gww7z2np7yf2rz5hxpfs03cuy43c3p68swm26eu",
+    "amount": "0.80425374",
+    "rate": "0.00103669"
+  },
+  {
+    "address": "bcrt1pl8at8qlguxs6yknr67ntjyx3y2uhqdsjsfq8e24fkg74r9zh4rjq52qfc7",
+    "amount": "1.32286136",
+    "rate": "0.00105470"
+  },
+  {
+    "address": "bcrt1pggyg8f67a0s024ykslatjtxw6ckz0crd43pmdxr053l0x3tmrhfqhum0jn",
+    "amount": "1.19257462",
+    "rate": "0.00107271"
+  },
+  {
+    "address": "bcrt1pwa7tp8wkwpvkj294mgy0zcsm3jjzlp9sm79szzazryqgf9n0yups9s76sm",
+    "amount": "1.07212926",
+    "rate": "0.00109072"
+  },
+  {
+    "address": "msARsqcmpP8DsjefZEjQUr8koxEqsMJuwi",
+    "amount": "1.16637434",
+    "rate": "0.00110873"
+  },
+  {
+    "address": "bcrt1p8kcq3jfs7t7ttkq8m00vqfzkqweq9jmael7ah72h66rw76xs6drqhyga4p",
+    "amount": "0.59835868",
+    "rate": "0.00112675"
+  },
+  {
+    "address": "mv9s6WBXXWhdrNAGeckbqk554oPkEYrSYS",
+    "amount": "1.36320883",
+    "rate": "0.00114476"
+  },
+  {
+    "address": "mo4hi1zhubqR4AovzXnHchNqQL2UpzxpYH",
+    "amount": "0.82642923",
+    "rate": "0.00116277"
+  },
+  {
+    "address": "bcrt1pe9chrja9smzzsp8kjnpmddkdymuc9hsfffs467k7h3tq3q84dm9s53te5q",
+    "amount": "1.12522537",
+    "rate": "0.00118078"
+  },
+  {
+    "address": "mzWsZyF3xjEmn7KJDemQNBs2DvsfH18FM1",
+    "amount": "0.44147175",
+    "rate": "0.00119880"
+  },
+  {
+    "address": "bcrt1p963pl833k9srvxu8nlfwp6er0hdcqlemu9lpmvq82qa2a0ekemmqlwrpqv",
+    "amount": "0.90338809",
+    "rate": "0.00121681"
+  },
+  {
+    "address": "bcrt1phyhlnx0ht427cfsda8jcl79hy67qa23sqgg0wwxrd2ug9lutyz6q95n725",
+    "amount": "0.35829829",
+    "rate": "0.00123482"
+  },
+  {
+    "address": "bcrt1pk5mk7d2pr3cgsqr3pr22kdgwddlv33n0s6m3ap53r2g0cqezxdjqt20csh",
+    "amount": "0.25472705",
+    "rate": "0.00125283"
+  },
+  {
+    "address": "bcrt1qmld2u7g05lq2wfrxcpv88wqpz3hn9rfnuyxghp",
+    "amount": "0.56383298",
+    "rate": "0.00127084"
+  },
+  {
+    "address": "bcrt1p2tyetla9athh2ml7ezz4clj85sqqrluss7v2l57pcylauh74nums5424py",
+    "amount": "0.68603215",
+    "rate": "0.00128886"
+  },
+  {
+    "address": "n28mPN5N7MNAL2YRe5EShG9yNjMgcY6dHZ",
+    "amount": "1.17332072",
+    "rate": "0.00130687"
+  },
+  {
+    "address": "bcrt1p4uu6wt707703cwk60wdvv9acplmk2vtf96x6s8j8lm7kfrf4t2lqzhcsfp",
+    "amount": "0.07141696",
+    "rate": "0.00132488"
+  },
+  {
+    "address": "bcrt1ppzmpngkz0ff9jkxdh2tlzd0m8ct9stxns97xz2fu902ay0gu5cds9qhlsz",
+    "amount": "0.28975810",
+    "rate": "0.00134289"
+  },
+  {
+    "address": "bcrt1p92ygw4wtepwkp5xtwcnvhn034qxy8znxkf7wr9k0dl5p4rsk7nzsh77x2l",
+    "amount": "0.26921598",
+    "rate": "0.00136090"
+  },
+  {
+    "address": "bcrt1qrwp0luuhwp5rhxmm0qenjnw8l090h9t2ax3qcd",
+    "amount": "1.30356274",
+    "rate": "0.00137892"
+  },
+  {
+    "address": "2N5CNsCUed6DjvAWQ1h6WXVCfryj2vf9gw7",
+    "amount": "0.80917964",
+    "rate": "0.00139693"
+  },
+  {
+    "address": "bcrt1qnzjcmccjujcwptm2vx5tez3vncvc4cgss070eh",
+    "amount": "0.85698819",
+    "rate": "0.00141494"
+  },
+  {
+    "address": "2Mz475cCyKrTBTQ9J5wugnZzAyVybV4H6Ar",
+    "amount": "0.27801028",
+    "rate": "0.00143295"
+  },
+  {
+    "address": "bcrt1qayd6sxy7mzxtvcsh7p9p6k00mnsf2hnsv3sg3p",
+    "amount": "1.30765640",
+    "rate": "0.00145096"
+  },
+  {
+    "address": "bcrt1q9qq9gk9amxpdrxglgkwpscj3y52sg35mzp8w7s",
+    "amount": "0.02101532",
+    "rate": "0.00146898"
+  },
+  {
+    "address": "mroDPQNGw2a2Qpy6vhp39hmMWFr7iUiKor",
+    "amount": "0.79916340",
+    "rate": "0.00148699"
+  },
+  {
+    "address": "bcrt1p0lm9er6sn27v0gyyhamf76lgf7drf7x947xrhm3tqmn0mfdz79es5gm24t",
+    "amount": "0.84601280",
+    "rate": "0.00150500"
+  },
+  {
+    "address": "bcrt1qd7pamuhg0af6hs87t2cg0km30dy0t69e4atktx",
+    "amount": "0.07422517",
+    "rate": "0.00152301"
+  },
+  {
+    "address": "bcrt1p6ynukpuu7twvzsvsr55nzsl0yjmqt60xg38uchvdrns5gskfdhnse3hy7v",
+    "amount": "1.49479226",
+    "rate": "0.00154102"
+  },
+  {
+    "address": "mrt2z9vx2HBPydrm816pp7hoYsfYTueUPy",
+    "amount": "0.45559368",
+    "rate": "0.00155904"
+  },
+  {
+    "address": "bcrt1p3stdntw33ksjjatqs86nspuvh8krdx5xmqw4vswa8x2tx3nfqlwqhau6xj",
+    "amount": "0.19864867",
+    "rate": "0.00157705"
+  },
+  {
+    "address": "2MshgS8f3KRCMW1KSqBoKRE4PQAyKrCCzFm",
+    "amount": "0.30344841",
+    "rate": "0.00159506"
+  },
+  {
+    "address": "bcrt1p78qlpgev9cyud9hkd5tue4m60t3ly468kpsa7avs0zk94uf6x45qrp63kg",
+    "amount": "1.19537415",
+    "rate": "0.00161307"
+  },
+  {
+    "address": "2N3GC8YY5YrybxqL1113cZnB1GyHzWoVGAf",
+    "amount": "1.12486582",
+    "rate": "0.00163108"
+  },
+  {
+    "address": "bcrt1p94wzcemty66cqlvqhuetzrtxe2ucwxkqkpjggyfsstxl528ys2pqfz6c7m",
+    "amount": "0.39302683",
+    "rate": "0.00164910"
+  },
+  {
+    "address": "bcrt1pnf20l4ufgu483dp9lrxwjqrp5ntjf5rl7uv0f6yduqapummkksrs38mjcp",
+    "amount": "0.13602938",
+    "rate": "0.00166711"
+  },
+  {
+    "address": "2N87fBtV4KvbXhcGSYrNHnBF4w1rKXV2wRG",
+    "amount": "0.21979454",
+    "rate": "0.00168512"
+  },
+  {
+    "address": "2N43vJtn974B7ncXtkctPgjQaSL5W5LvwW8",
+    "amount": "1.03697811",
+    "rate": "0.00170313"
+  },
+  {
+    "address": "bcrt1qy2dc7nsh903l9m8uz6mxwktyk00pkvwg92asct",
+    "amount": "0.47653079",
+    "rate": "0.00172114"
+  },
+  {
+    "address": "bcrt1ql0rflayt0qt9gh368ump6zwtpqhrm8c9xeesqq",
+    "amount": "0.64777516",
+    "rate": "0.00173916"
+  },
+  {
+    "address": "bcrt1qrkyzu0cx6ekxj0h20664374ndncfcmaz66240s",
+    "amount": "0.97095270",
+    "rate": "0.00175717"
+  },
+  {
+    "address": "mqGX5tRXV9PD2Yex3UQ2whCBubdiSHignR",
+    "amount": "0.95297934",
+    "rate": "0.00177518"
+  },
+  {
+    "address": "2MyFTmsufV5xW9uw6vUQv1fV3i6E2grcWA8",
+    "amount": "0.50268878",
+    "rate": "0.00179319"
+  },
+  {
+    "address": "bcrt1q6jdfzrmrfeva5tfq7mjel58ez8ucq8hzy0zljy",
+    "amount": "0.13154691",
+    "rate": "0.00181120"
+  },
+  {
+    "address": "bcrt1qn3uvtzqpxmql48trfssvn0n9x3daxt6v2f8qad",
+    "amount": "1.34016649",
+    "rate": "0.00182922"
+  },
+  {
+    "address": "2MtBBfHQQ2oKYJvt2soQVzDSwjwq3VBE3C1",
+    "amount": "1.19712793",
+    "rate": "0.00184723"
+  },
+  {
+    "address": "bcrt1q9p2y4da6k9wwqsp72x3wfyefm0lz7arr6dfdc0",
+    "amount": "0.17304349",
+    "rate": "0.00186524"
+  },
+  {
+    "address": "2N3S4PrF9Xd9EoqGWAhEXRKsAsvXoAETMjv",
+    "amount": "0.06478014",
+    "rate": "0.00188325"
+  },
+  {
+    "address": "bcrt1pyus7urk0rpzjwxfaxvdqfsfk0xmn4655ekrsr0pspy0khnd4d05s06u97y",
+    "amount": "1.13140001",
+    "rate": "0.00190127"
+  },
+  {
+    "address": "bcrt1q4skd83jpxsl02ev89hsggn5tjkcvf6r5u6need",
+    "amount": "0.05943574",
+    "rate": "0.00191928"
+  },
+  {
+    "address": "mvvAwnmuGngSt2uk1TNw9sJB8McsQUdRwT",
+    "amount": "1.05452619",
+    "rate": "0.00193729"
+  },
+  {
+    "address": "2MvdbducTiv6Le3YevGGiNcYg3TJDoN9QHK",
+    "amount": "1.57929744",
+    "rate": "0.00195530"
+  },
+  {
+    "address": "2NB2v3grWxFBV3yDQ89kp6iLUzrhVf8kCLb",
+    "amount": "0.54660427",
+    "rate": "0.00197331"
+  },
+  {
+    "address": "2N3SxxzNVah6GVhEPyevQBZUPp6RppMS8Go",
+    "amount": "0.02004107",
+    "rate": "0.00199133"
+  },
+  {
+    "address": "bcrt1qkkhuedmgsjhu3kffsg3jr7m06yad4n3mh6clgg",
+    "amount": "0.65015647",
+    "rate": "0.00200934"
+  },
+  {
+    "address": "2N3gC7Cz2y7k4w1NToQdo4Mayd7QF7UKp8p",
+    "amount": "0.36725330",
+    "rate": "0.00202735"
+  },
+  {
+    "address": "mvK2ngVdhmYZWiCVJeDEjKp7RmqEforwTo",
+    "amount": "0.06698634",
+    "rate": "0.00204536"
+  },
+  {
+    "address": "bcrt1qq9hspredz0eztlx9udclhe0tmxjj2uk9gaedgu",
+    "amount": "0.96851348",
+    "rate": "0.00206337"
+  },
+  {
+    "address": "bcrt1qa0gkkka9kkz7apeh268s0907lq3vk4u0yxy7kn",
+    "amount": "0.51600225",
+    "rate": "0.00208139"
+  },
+  {
+    "address": "2N5zPEpSQbVNxMT9Jcyzcu7GNAdzgZurhqy",
+    "amount": "0.48054450",
+    "rate": "0.00209940"
+  },
+  {
+    "address": "2NAw2qAxEcBDC3AP23RzAeS5voJNeHFxt4T",
+    "amount": "0.03806909",
+    "rate": "0.00211741"
+  },
+  {
+    "address": "bcrt1p3dqpxpxuwsszn2r59jf7w7tvjnqacef09a2lzs6pr7e7teae244qzq85g0",
+    "amount": "1.33628156",
+    "rate": "0.00213542"
+  },
+  {
+    "address": "bcrt1qgzq2kz4dzj2a9pla8780nr0m42lxc868gjx659",
+    "amount": "0.61108029",
+    "rate": "0.00215343"
+  },
+  {
+    "address": "bcrt1qwkkryx6trqcrurvfgzqf3m04yxh5kcq6xg4zx8",
+    "amount": "1.58291896",
+    "rate": "0.00217145"
+  },
+  {
+    "address": "bcrt1qdtaxdjpa6m3dlhe0vzdtqhmmaucj3zq6fxy2d6",
+    "amount": "0.26139841",
+    "rate": "0.00218946"
+  },
+  {
+    "address": "bcrt1pvv0vs5zquag6hrk3eq4l5fzamp6hvqt7zvejl69av93s4jaxa3jq74tchd",
+    "amount": "0.07684773",
+    "rate": "0.00220747"
+  },
+  {
+    "address": "mpsPdpHM6yEAJB2PSZ3UxafbseJUbJufs4",
+    "amount": "1.36840158",
+    "rate": "0.00222548"
+  },
+  {
+    "address": "mmoWFhEck96Xf1Ex3xDsidbX4hoi5G8fN6",
+    "amount": "1.44914223",
+    "rate": "0.00224349"
+  },
+  {
+    "address": "bcrt1qunznzd9x4chn3f2mmqt8cjd0nst9dflva8c672",
+    "amount": "0.71309007",
+    "rate": "0.00226151"
+  },
+  {
+    "address": "2NAMkMjm8ewnyPxpPFamLGAguyQw8NzSAoR",
+    "amount": "0.01074685",
+    "rate": "0.00227952"
+  },
+  {
+    "address": "bcrt1pu9d4mmq0zs50xcgngltr28p3utcw4pe4xl0q6qkg03gm6f8wpxqq9kyzhz",
+    "amount": "0.72093495",
+    "rate": "0.00229753"
+  },
+  {
+    "address": "miWgaLbFhQDWf96q24rP1Tweyid6N1B4qt",
+    "amount": "1.41597623",
+    "rate": "0.00231554"
+  },
+  {
+    "address": "mzqJhHhQnF3H7A5PHzrDbuboqG4FuXyEBG",
+    "amount": "0.22013746",
+    "rate": "0.00233355"
+  },
+  {
+    "address": "bcrt1p23c9jj8jmqckl9xq5lsw9ytrtgq78qe9x27w2jcu4u9mxmeflkyqr5pn6z",
+    "amount": "1.13713349",
+    "rate": "0.00235157"
+  },
+  {
+    "address": "2N9phCdARN4Q1BEfjsnSNayfmxvigDQZod3",
+    "amount": "1.63427716",
+    "rate": "0.00236958"
+  },
+  {
+    "address": "bcrt1q2aex9q479r83pxgvz9pwh7skzcug5rxv3lx24w",
+    "amount": "0.37018273",
+    "rate": "0.00238759"
+  },
+  {
+    "address": "bcrt1qa93cxhl86p0ky4hysxqvd3feplzy0su76dfdsg",
+    "amount": "1.02710995",
+    "rate": "0.00240560"
+  },
+  {
+    "address": "2N7GCy4nhAP5m1s6xiRrpVDNU9eLKNLj1fb",
+    "amount": "1.58257199",
+    "rate": "0.00242361"
+  },
+  {
+    "address": "bcrt1qx7alcghe8pkgppa2smu38guupfswhv5se2zdp5",
+    "amount": "0.65278729",
+    "rate": "0.00244163"
+  },
+  {
+    "address": "bcrt1pjcau42365ej66mw3d0kd2aevy5qnadhf44fpncuac4s3gh8p97gq0pagpw",
+    "amount": "0.35664651",
+    "rate": "0.00245964"
+  },
+  {
+    "address": "bcrt1qsj6hpp96540py339j9lwu3f75nprktk7slu6mj",
+    "amount": "1.11231672",
+    "rate": "0.00247765"
+  },
+  {
+    "address": "2NEb6BZnN4wjekdzRH4aBbx9yKYpx75d9MQ",
+    "amount": "1.77486376",
+    "rate": "0.00249566"
+  },
+  {
+    "address": "mhG5XAhLeeQXCqnXwcYRiJgnrW22Eh6xRD",
+    "amount": "1.00736752",
+    "rate": "0.00251367"
+  },
+  {
+    "address": "bcrt1qznvmj70h2xq9pzry75fegz22up452ncp3hhn3a",
+    "amount": "0.66199440",
+    "rate": "0.00253169"
+  },
+  {
+    "address": "my2uyrQWUxyeKn9R6QsqkXt5Lozg631akg",
+    "amount": "0.46159627",
+    "rate": "0.00254970"
+  },
+  {
+    "address": "2NBPbngxT1EZftS3eCMq9GCCJ9iaAegrpVK",
+    "amount": "0.01081994",
+    "rate": "0.00256771"
+  },
+  {
+    "address": "bcrt1ppa670aex3cj5jztryv83sj65kk3nt7c90x5n9uzzmceap38txtzsje9gzl",
+    "amount": "1.64624932",
+    "rate": "0.00258572"
+  },
+  {
+    "address": "2N1FRbJNYCquPjjqwBwaBN6u2U3H5PszvrZ",
+    "amount": "0.69287643",
+    "rate": "0.00260373"
+  },
+  {
+    "address": "bcrt1psqspvqamkx2fzye223dluxle2wjmuwv0mzw0hqpe3l83mk3x0rgsflkhhj",
+    "amount": "1.43279621",
+    "rate": "0.00262175"
+  },
+  {
+    "address": "bcrt1qguf68efdwy7kt4sn0wvfr36k4hxpl2saclyxz6",
+    "amount": "1.13518667",
+    "rate": "0.00263976"
+  },
+  {
+    "address": "2MtLT8eaALG8GBx8AXq4fnVh67oDaVgiD89",
+    "amount": "1.30678064",
+    "rate": "0.00265777"
+  },
+  {
+    "address": "ms4JFRqVrxp6cqntfthnb6maDUTaYsLW39",
+    "amount": "1.56354547",
+    "rate": "0.00267578"
+  },
+  {
+    "address": "bcrt1q8gcnxweyc53syler2knxvtt4ada56whu3887cu",
+    "amount": "0.83811846",
+    "rate": "0.00269380"
+  },
+  {
+    "address": "bcrt1pmc2zcdwkeqrdv5g6q49vjfsp6tsclra4tvkh3ndd47gkqxe2dsaqgxy6rl",
+    "amount": "1.51670381",
+    "rate": "0.00271181"
+  },
+  {
+    "address": "2MswmQk6CmS1f4eeppxsgV4hphsq9fWgM2N",
+    "amount": "1.22376384",
+    "rate": "0.00272982"
+  },
+  {
+    "address": "2My5GV3BSTrBVWDj1Ei7yaG2qWwAsZcCbug",
+    "amount": "0.83068148",
+    "rate": "0.00274783"
+  },
+  {
+    "address": "2NDHEmBoHJFniXCLAMWMsMiGgsukgojbGXE",
+    "amount": "0.50668019",
+    "rate": "0.00276584"
+  },
+  {
+    "address": "n122kengC7TduRuRGRj5D8HBmo9zsUyrUL",
+    "amount": "0.70260101",
+    "rate": "0.00278386"
+  },
+  {
+    "address": "bcrt1phs9986ug2m29d239je4rway07g3u48g7kjhcutq3ej57nx2yea9sww2dmt",
+    "amount": "1.06459945",
+    "rate": "0.00280187"
+  },
+  {
+    "address": "bcrt1pdq6dczjhruawfmdu2wj3ewvwzuw2878x06eqqa0lmd975zx046cs6mvhu4",
+    "amount": "0.07218720",
+    "rate": "0.00281988"
+  },
+  {
+    "address": "bcrt1q5czwan9rzvxcw9299yxge6grj5aez93k7w9wmf",
+    "amount": "0.75832186",
+    "rate": "0.00283789"
+  },
+  {
+    "address": "2MvkP5XtdzB3WtKb6v9U61dgSPGJVQmFfoh",
+    "amount": "1.24253647",
+    "rate": "0.00285590"
+  },
+  {
+    "address": "bcrt1q9cn37qr2zrysknvul3f3vecra85cexxaeuumtz",
+    "amount": "0.80214074",
+    "rate": "0.00287392"
+  },
+  {
+    "address": "bcrt1pr2nnsnz450x9eg77vnvzy2wyvrzumdajnwsdtmu7qh29ulurts6sfymntf",
+    "amount": "0.49406900",
+    "rate": "0.00289193"
+  },
+  {
+    "address": "2MzDrpdhbJpmJTNQ3Ze9JjH3sDkbX6YpWUp",
+    "amount": "1.74998398",
+    "rate": "0.00290994"
+  },
+  {
+    "address": "bcrt1pgv0jhew592qxjmmehamzhpu6fjjjp4mvj8c8whnqerg80mzkr39snehj9m",
+    "amount": "1.88136485",
+    "rate": "0.00292795"
+  },
+  {
+    "address": "bcrt1qfxl0w3k7ehk69wnyfj38r4nlrhddewqc38xwlq",
+    "amount": "1.53491403",
+    "rate": "0.00294596"
+  },
+  {
+    "address": "muCdhwNWPNHRpCVphMVfV4RbyqgT7oHgxT",
+    "amount": "0.21887432",
+    "rate": "0.00296398"
+  },
+  {
+    "address": "bcrt1p55jygh45rfdq87uk9gselwevf0gnuxqzymwtrmyz0dey6yh4wcaq25vl3f",
+    "amount": "1.06513629",
+    "rate": "0.00298199"
+  },
+  {
+    "address": "2N3Ezq8TVd2fXgjzrsmhRCbvwTecsjHZsMU",
+    "amount": "1.07826795",
+    "rate": "0.00001000"
+  },
+  {
+    "address": "n3MomzugTyVKVB1zCcik754wnAHZ3JTzHM",
+    "amount": "1.98837097",
+    "rate": "0.00002801"
+  },
+  {
+    "address": "2NCH72eKpt2TtN5LBrUys9Zz5xV5wS87Lva",
+    "amount": "1.70560214",
+    "rate": "0.00004602"
+  },
+  {
+    "address": "bcrt1qczuxylrqypgulpwyasg7ytqg0czfd09w3urydy",
+    "amount": "1.50226272",
+    "rate": "0.00006404"
+  },
+  {
+    "address": "bcrt1pmtyzafj87wafw98efrlh0dj5gfs7wcya59lc8m0xu4fc08gjkedse9d0j0",
+    "amount": "0.53416366",
+    "rate": "0.00008205"
+  },
+  {
+    "address": "bcrt1qpd64l6rcnqrlxyfq340nxh7rhy6hsgh9kd6gey",
+    "amount": "1.74453029",
+    "rate": "0.00010006"
+  },
+  {
+    "address": "bcrt1qmxprgk6x5pf5gk6seed4pm9kf6d25uxhwkff8r",
+    "amount": "0.21077870",
+    "rate": "0.00011807"
+  },
+  {
+    "address": "muxxgg8FGzDbR7gQCdL3kpVSJ7kdXVYAKZ",
+    "amount": "1.46029259",
+    "rate": "0.00013608"
+  },
+  {
+    "address": "bcrt1pvs8qyh2j2m7cznvr8waat9s35hd9em0ue07r3m26dgyp93hjwe6shjkfp6",
+    "amount": "0.71660742",
+    "rate": "0.00015410"
+  },
+  {
+    "address": "bcrt1qsw3avl8s34vvg7va0rdxdvdj5hy550qzxtwnsg",
+    "amount": "1.34469909",
+    "rate": "0.00017211"
+  },
+  {
+    "address": "bcrt1qsey4p8myxns3kxwph3lmqmvc8t3ga4tkzu2kfk",
+    "amount": "0.29416473",
+    "rate": "0.00019012"
+  },
+  {
+    "address": "bcrt1p029wats79rexfq50aruraxllle5tplagcnjgxyeynr6qtzh7mlvqmm4yz5",
+    "amount": "0.79339398",
+    "rate": "0.00020813"
+  },
+  {
+    "address": "bcrt1pt9lfg2ay3rp9c9qvt7cg7knzn5kxxgg5m9ucre28rkgdfcq67glqtkmypa",
+    "amount": "1.38469128",
+    "rate": "0.00022614"
+  },
+  {
+    "address": "bcrt1qdyc06whhl2tz74z959s905mk49ntgg2ylr7fj0",
+    "amount": "1.49141017",
+    "rate": "0.00024416"
+  },
+  {
+    "address": "mpiwRRsEwQMNneQeFMKJvu5xgia8wc7byf",
+    "amount": "1.04173177",
+    "rate": "0.00026217"
+  },
+  {
+    "address": "mjhQzCgTHGAWskma5FELcarQSbTFmVHnQr",
+    "amount": "1.35329716",
+    "rate": "0.00028018"
+  },
+  {
+    "address": "2Mwn1irdeGynddKnAJy6Zqi2gkUpp9Fmmh5",
+    "amount": "2.01768361",
+    "rate": "0.00029819"
+  },
+  {
+    "address": "2Mzf2UY3RNWKXgH5uqCmHxc2EmG8Hmcq5mV",
+    "amount": "0.24954208",
+    "rate": "0.00031620"
+  },
+  {
+    "address": "bcrt1pc62p5fl9z0pzn59rxc3gqw7sfrtv3hc6r9hsam9kcasw726qrsas6tzgne",
+    "amount": "0.59555557",
+    "rate": "0.00033422"
+  },
+  {
+    "address": "2MtN9NCXQFTzpNDo3qfmekAYVuEaK4sM9uN",
+    "amount": "0.36107430",
+    "rate": "0.00035223"
+  },
+  {
+    "address": "n2sQa1fv4W5NythcoQUnsmudLJncuyTL4e",
+    "amount": "1.61626615",
+    "rate": "0.00037024"
+  },
+  {
+    "address": "bcrt1p259nrdedatmcu3539qa4zqp998uc48rdh4wduy7ltw94jjzxjwyq85d3d7",
+    "amount": "1.52125642",
+    "rate": "0.00038825"
+  },
+  {
+    "address": "mtWgKmA3Edcy1uiqyQecYioCH8mvAFMrXc",
+    "amount": "1.98685549",
+    "rate": "0.00040627"
+  },
+  {
+    "address": "2N6HUbBh8e4E9zYuxhvbD5g5eVCaEZK8mJ2",
+    "amount": "1.18429526",
+    "rate": "0.00042428"
+  },
+  {
+    "address": "2MyaaMJqvtfPza4pJV6pHacrbariZkgojsY",
+    "amount": "0.72439899",
+    "rate": "0.00044229"
+  },
+  {
+    "address": "bcrt1p253r7l5nuyxqtkemgy4jcqj90fq979w2z80k2sakn5x92mrlhzyqd2s82v",
+    "amount": "0.11114778",
+    "rate": "0.00046030"
+  },
+  {
+    "address": "bcrt1ptr7fw4lsmum6lw6952mkgye2al97uahwjutyzgpfzura75ql92qq8t5msl",
+    "amount": "1.30091143",
+    "rate": "0.00047831"
+  },
+  {
+    "address": "bcrt1qqvkm7vltuezy5kwn4alj5rvfztrq8u03jyg8fp",
+    "amount": "1.47539839",
+    "rate": "0.00049633"
+  },
+  {
+    "address": "2NDSwpkVvL1VshVoyjJZorkKH1rTvfEk1Jr",
+    "amount": "0.56359585",
+    "rate": "0.00051434"
+  },
+  {
+    "address": "2N1YQ8Ev41z1cyyB4QF35cdG2ZpuT8v496W",
+    "amount": "1.20832447",
+    "rate": "0.00053235"
+  },
+  {
+    "address": "2N1Wjj2sGJGn73PbNWJC4yLKK4adKGEJnLG",
+    "amount": "0.29848764",
+    "rate": "0.00055036"
+  },
+  {
+    "address": "mp1BgAYyyxhYf5UY1kZSsfZBhEpzeWHe9T",
+    "amount": "1.66382740",
+    "rate": "0.00056837"
+  },
+  {
+    "address": "2N1etrss63UiBY61fR3264xKZpixfK8qfFi",
+    "amount": "1.15064740",
+    "rate": "0.00058639"
+  },
+  {
+    "address": "2Mt5qRMPUHSFAT6nSt7R32d1cADqim4skqx",
+    "amount": "1.91606331",
+    "rate": "0.00060440"
+  },
+  {
+    "address": "bcrt1qmhyqwwc92j3pj2krnnaedw6qx65pqxlj926en2",
+    "amount": "2.15360722",
+    "rate": "0.00062241"
+  },
+  {
+    "address": "mp9AGwoxh5sEcLoBYHfXaq7NiyQzDXbHTx",
+    "amount": "1.03000062",
+    "rate": "0.00064042"
+  },
+  {
+    "address": "2N388GKqPL5sL2eGCBG4szqyh3wi2bHSXDC",
+    "amount": "0.52429110",
+    "rate": "0.00065843"
+  },
+  {
+    "address": "bcrt1pmn269l7gpsue9u544tc90hr7pypr6rdg58v6z97h7wrqfrg2yc9snjrnhv",
+    "amount": "0.68162151",
+    "rate": "0.00067645"
+  },
+  {
+    "address": "2NE6gPcELYALokvjTzHi6uh8vLWBzzT3eMx",
+    "amount": "1.60867412",
+    "rate": "0.00069446"
+  },
+  {
+    "address": "bcrt1p28ehmm8c8uq26y5y4sy8j2ckr2pca5t6aaan756tkg7fdcp380aq5ecaqs",
+    "amount": "1.76429641",
+    "rate": "0.00071247"
+  },
+  {
+    "address": "2MuQEVBBx19DS92VSTzpztXPw6z5YeoEC1Y",
+    "amount": "1.45482432",
+    "rate": "0.00073048"
+  },
+  {
+    "address": "bcrt1qcw3my9vz6xc7szs7z60xpe7uykcsy9q8fa4pvk",
+    "amount": "0.85158341",
+    "rate": "0.00074849"
+  },
+  {
+    "address": "muyqVy45mLMHPRSQN1vKYWHymVaj3wZznw",
+    "amount": "0.80217744",
+    "rate": "0.00076651"
+  },
+  {
+    "address": "mhVCXMJfvdm5mJ4pzsureKrWxJpN4ALsup",
+    "amount": "0.61517849",
+    "rate": "0.00078452"
+  },
+  {
+    "address": "mtUcwrxLYgme18b8nZF8TsAtSrZh7F9VKo",
+    "amount": "0.97051951",
+    "rate": "0.00080253"
+  },
+  {
+    "address": "mwepczHhNBGGy4q86DtB8rvqf2HyJpVKWd",
+    "amount": "0.46261818",
+    "rate": "0.00082054"
+  },
+  {
+    "address": "myjTLKqwuD5A1pGZ9QcYnE5Hxyspuhi7BC",
+    "amount": "0.49631793",
+    "rate": "0.00083855"
+  },
+  {
+    "address": "2NE6RKmRxFPzGsYfVrLrsQ2c794AVXjZmrt",
+    "amount": "2.13232301",
+    "rate": "0.00085657"
+  },
+  {
+    "address": "bcrt1qlyk9t08kpgjdgp4y2pcmag823wg7sh43c33824",
+    "amount": "1.72071234",
+    "rate": "0.00087458"
+  },
+  {
+    "address": "bcrt1pde5p67802ydevp7mtv48e86gsqrwp4ln3z5uwx2efmkesza5s35smypjcp",
+    "amount": "0.50156824",
+    "rate": "0.00089259"
+  },
+  {
+    "address": "bcrt1phvxepe7e083xy5dpm6kwvr02f68ec222uzhe67ggmn89dwf2au5qzepr3l",
+    "amount": "0.52432944",
+    "rate": "0.00091060"
+  },
+  {
+    "address": "bcrt1pndv5e5tj5qtqxpqvsc7cc3nwr0r7xw2hsrg79gcg4j6kx3l3cjmsu37wur",
+    "amount": "0.05790448",
+    "rate": "0.00092861"
+  },
+  {
+    "address": "bcrt1p7yr9xzkje62sy9u58j4calty306sk9zfrc3unjpmhpd0a93fz3asnkkvhv",
+    "amount": "1.51770684",
+    "rate": "0.00094663"
+  },
+  {
+    "address": "n15SB1dfrcBafRRek1i4Z3zFJk8BimFR6g",
+    "amount": "1.67097610",
+    "rate": "0.00096464"
+  },
+  {
+    "address": "bcrt1qrmcn3jq3d8pm7dnpyrmzlwudyzrl9x9e2uydq5",
+    "amount": "0.27022059",
+    "rate": "0.00098265"
+  },
+  {
+    "address": "2MuvUdAkKcf3W9fYdXHiUcwYvPxmzC7Pqet",
+    "amount": "0.31112669",
+    "rate": "0.00100066"
+  },
+  {
+    "address": "bcrt1p8sa6ugcuvx4pdw6smzqxfhele8ckdhfffp4nc7nes5fxg480ey2scrr3nh",
+    "amount": "0.07493632",
+    "rate": "0.00101867"
+  },
+  {
+    "address": "moFgk2qfFqKHcE5owTXRNBy4Fyvg88rUYS",
+    "amount": "2.23043004",
+    "rate": "0.00103669"
+  },
+  {
+    "address": "bcrt1qgtlgf47qtuqwe28ffvshpj4rhk66332csrly28",
+    "amount": "0.15983293",
+    "rate": "0.00105470"
+  },
+  {
+    "address": "bcrt1p5hde94fjwhss4q8fcsynnjkg9g8n23qztc8ghxc0mfqyvwm6ptpselfyhx",
+    "amount": "2.26488652",
+    "rate": "0.00107271"
+  },
+  {
+    "address": "bcrt1qxt98xyz2hn52nxuumul4e0vumr3pgrhnej3rpp",
+    "amount": "1.53289881",
+    "rate": "0.00109072"
+  },
+  {
+    "address": "2N8J3WdBuscGFRMGvnUqgdrrqVMNBDEEAmQ",
+    "amount": "0.21556149",
+    "rate": "0.00110873"
+  },
+  {
+    "address": "bcrt1qhh36ckq2rapcnagxn58ddnd05gs38kvs0ecz87",
+    "amount": "2.33209207",
+    "rate": "0.00112675"
+  },
+  {
+    "address": "bcrt1p2hjcsraqyuru8xsghpulyjnnafh7gr38dc5f5f74y7ylke4uumqsn79mth",
+    "amount": "0.10630661",
+    "rate": "0.00114476"
+  },
+  {
+    "address": "bcrt1ptztmn476p8eelepw845d0q6w7a5e48j6ev3mpq00vzhg954yzh7qyj4lue",
+    "amount": "2.18263274",
+    "rate": "0.00116277"
+  },
+  {
+    "address": "2MuVzyBLE9wP1MzjwS1qLhrDZyyezLYP9Lv",
+    "amount": "0.77789877",
+    "rate": "0.00118078"
+  },
+  {
+    "address": "bcrt1plwx6nsajxrfcsnzym45j8vwzp77wkd8vc07pl7u77lmadr8v29cqfndglp",
+    "amount": "2.27546287",
+    "rate": "0.00119880"
+  },
+  {
+    "address": "mpcJ7ghGzY1QcawuiBTmu3d8WiF6wfwZ9g",
+    "amount": "0.93075217",
+    "rate": "0.00121681"
+  },
+  {
+    "address": "bcrt1pquteqxunfaswswp0leuegfxycvhngtyxdvgt02gns57hv06e222qjq0sea",
+    "amount": "0.79406235",
+    "rate": "0.00123482"
+  },
+  {
+    "address": "bcrt1ps9vn9gqnh92rjhdlq4sg0uzz8yufd5kykkh3xjn8ad7yglyzj5ps0fdhda",
+    "amount": "1.69278376",
+    "rate": "0.00125283"
+  },
+  {
+    "address": "bcrt1qydwnmpe54l0wup0u96n6hwzfq2wkjqn8ue4wt8",
+    "amount": "0.59552974",
+    "rate": "0.00127084"
+  },
+  {
+    "address": "moB7GKoBvdQ5xgXYHhjoX8i8fXsVcNk4my",
+    "amount": "1.68924730",
+    "rate": "0.00128886"
+  },
+  {
+    "address": "bcrt1pawnpxyz8yv4lzge8pn02sqtg9se7w2deq99vtg5dgsd8xg2m6qvqemxxyl",
+    "amount": "0.15370408",
+    "rate": "0.00130687"
+  },
+  {
+    "address": "bcrt1pmserwud8nupmyqwydr3jx824n33f95vs99k69u6089a3p6thpf0s68qzf3",
+    "amount": "1.00273267",
+    "rate": "0.00132488"
+  },
+  {
+    "address": "mvDFdQjcmuK23EuV1BXSStaR2DxzRXL8mH",
+    "amount": "2.25552884",
+    "rate": "0.00134289"
+  },
+  {
+    "address": "bcrt1qg9qklnn5yvufjgz6p6snp06ymrc9udxav5numq",
+    "amount": "0.93647919",
+    "rate": "0.00136090"
+  },
+  {
+    "address": "bcrt1qx4mpms0qxps520mghvdr4e5mh9nm92f82yapeu",
+    "amount": "1.22254675",
+    "rate": "0.00137892"
+  },
+  {
+    "address": "bcrt1q449fdnx829sz9920td45ugl0vvdkwmqzkp3wxn",
+    "amount": "0.81511943",
+    "rate": "0.00139693"
+  },
+  {
+    "address": "bcrt1qunamx3wq0qjuazypyff2uch5m2y6pch6924s5j",
+    "amount": "0.80347701",
+    "rate": "0.00141494"
+  },
+  {
+    "address": "2N977XbX9sE8QvPwqwB8fp3w9saTU6z59GY",
+    "amount": "1.48667253",
+    "rate": "0.00143295"
+  },
+  {
+    "address": "2My2yeeqP6MNwVwwyesnTZwgkh9qTPs4Mef",
+    "amount": "1.60432901",
+    "rate": "0.00145096"
+  },
+  {
+    "address": "bcrt1q7mx887azp5e8u0gesfdkqnezq2eh6l32k3svda",
+    "amount": "2.29917968",
+    "rate": "0.00146898"
+  },
+  {
+    "address": "2NCWojTYqaNjWdbm7src7C3LhNjHw1LtDZC",
+    "amount": "1.35541756",
+    "rate": "0.00148699"
+  },
+  {
+    "address": "bcrt1qljvun6y5yfcn83d63tjaar5kxykx72ly66uynq",
+    "amount": "2.25348280",
+    "rate": "0.00150500"
+  },
+  {
+    "address": "bcrt1q3s7vps2vawc2n8yk5aclt4nx89uyzfm0hldgf2",
+    "amount": "1.86778910",
+    "rate": "0.00152301"
+  },
+  {
+    "address": "bcrt1pewj40glk0da77ynz9rdc5hseml7y0a3uxvcc5q9cpcpzk7n7t0xqf9stmr",
+    "amount": "0.52273658",
+    "rate": "0.00154102"
+  },
+  {
+    "address": "2NEvnpmtcmGmVv892Eqn9AMQYNHoUdZuedQ",
+    "amount": "1.94424141",
+    "rate": "0.00155904"
+  },
+  {
+    "address": "2NCQpUi45rCpuiDXhgym4riAYCQ2Xo6Epjo",
+    "amount": "0.72283806",
+    "rate": "0.00157705"
+  },
+  {
+    "address": "bcrt1qtxdrx2dmkn4yclqt66n7am4wzcajmtp8e3g7pp",
+    "amount": "1.03165061",
+    "rate": "0.00159506"
+  },
+  {
+    "address": "bcrt1q4k02qhsshjewy0rn77rcmzq5ahjnmu0anfleqs",
+    "amount": "2.35380164",
+    "rate": "0.00161307"
+  },
+  {
+    "address": "bcrt1p5wr7quusnuvwppzg95yddq5kt0nfnxwegva9xuvfgcqjfaj7mlssg74esv",
+    "amount": "0.67063451",
+    "rate": "0.00163108"
+  },
+  {
+    "address": "mwZY1gxWRuSXU2pvPyqujTRYakZVF1NvY3",
+    "amount": "1.52546322",
+    "rate": "0.00164910"
+  },
+  {
+    "address": "bcrt1qahwvujeh48vmtrqg9weu2ylymnsp6sk5lld5vm",
+    "amount": "0.93116028",
+    "rate": "0.00166711"
+  },
+  {
+    "address": "bcrt1qxekwmp2av8s9kvsctthkdsdlfrw2f2q8ffe6f8",
+    "amount": "0.22660708",
+    "rate": "0.00168512"
+  },
+  {
+    "address": "mtzQseK2Wm6AhwNTX26vp5qRsenvB5L9zZ",
+    "amount": "1.65593299",
+    "rate": "0.00170313"
+  },
+  {
+    "address": "bcrt1qzjkrhhedk4fjq58mhqnsr932czmkyv5zqzfnxw",
+    "amount": "0.99460801",
+    "rate": "0.00172114"
+  },
+  {
+    "address": "mtxTf7r2mkSyn6BwFAXpJFzi1EvMoi7Vq1",
+    "amount": "0.62483999",
+    "rate": "0.00173916"
+  },
+  {
+    "address": "bcrt1qn72yy2hjmaxzcum9guugv4ttjwaeuxakjw9050",
+    "amount": "0.33682965",
+    "rate": "0.00175717"
+  },
+  {
+    "address": "mr7Y52meAKRcuhLPnL4zTJxeYw5vnQQCyu",
+    "amount": "1.81243948",
+    "rate": "0.00177518"
+  },
+  {
+    "address": "bcrt1pv7zv5pwqslhtxhtruy5wz2rhrgc99qmkzzzse6ue0jsaus5hknvsqxere6",
+    "amount": "0.83182097",
+    "rate": "0.00179319"
+  },
+  {
+    "address": "mhkHce5qa1mop8Piq4cnPKiLDwF3DTzsk7",
+    "amount": "1.69949136",
+    "rate": "0.00181120"
+  },
+  {
+    "address": "bcrt1pj6psnf28yk9g3xnq7wrsfuvcwtyyr40sz0gn4qyha5wes3du04cqhdl7ns",
+    "amount": "0.00281449",
+    "rate": "0.00182922"
+  },
+  {
+    "address": "mrSLZqgCeKNkiLnrKYji3skV113N8aDmos",
+    "amount": "1.88170445",
+    "rate": "0.00184723"
+  },
+  {
+    "address": "bcrt1qnfgmpfujzajpx82407dldazhu9r7cz04r9xag2",
+    "amount": "1.57438214",
+    "rate": "0.00186524"
+  },
+  {
+    "address": "2NEPY18nRBFvJrwpBgs8mBZG7GFtSjNMcoV",
+    "amount": "1.25266218",
+    "rate": "0.00188325"
+  },
+  {
+    "address": "2N77zExg1jj5wA8Z6E7gwZjbmW6Dz7gTD9w",
+    "amount": "0.26201434",
+    "rate": "0.00190127"
+  },
+  {
+    "address": "2NBGqaMLMTuYqHK6LQKyHeKpUnFBT21F5yf",
+    "amount": "2.09009667",
+    "rate": "0.00191928"
+  },
+  {
+    "address": "bcrt1qpvhdterj8fq5m0dx7f3w9079323ygs6hsezwyc",
+    "amount": "0.69966888",
+    "rate": "0.00193729"
+  },
+  {
+    "address": "2N5keKTLgFHgWmGqx9EZ2MDUCAkTt1Dkwu2",
+    "amount": "0.19267850",
+    "rate": "0.00195530"
+  },
+  {
+    "address": "bcrt1perm0428h4hv6qu6t8vee2l5rgg7rk62hmagtqxnu5fzv67juw48q4g0705",
+    "amount": "0.31510030",
+    "rate": "0.00197331"
+  },
+  {
+    "address": "2NE45GbWD9fHRvWB3kcMAjRbrMiYeDuRTtq",
+    "amount": "2.36844895",
+    "rate": "0.00199133"
+  },
+  {
+    "address": "mzMJ3A6wBtZHLV1678GYEz66rTRnju53sE",
+    "amount": "1.78233879",
+    "rate": "0.00200934"
+  },
+  {
+    "address": "2MzKP1suDwYs9qViMWp4LNiSWzQouyTRsnm",
+    "amount": "1.24015066",
+    "rate": "0.00202735"
+  },
+  {
+    "address": "2MvrsjHBSVskNsZymfdCdakpVkjrSyZeAxQ",
+    "amount": "1.50636798",
+    "rate": "0.00204536"
+  },
+  {
+    "address": "bcrt1qhp2nu3v7e73rn58p35jmz8zlqksw24dnphajw2",
+    "amount": "1.82304737",
+    "rate": "0.00206337"
+  },
+  {
+    "address": "bcrt1pwupx3t9apxupzpuzw7gx2gqfg9ahey0qhpagtta5x7e0hnzq59vqhv5a0j",
+    "amount": "0.25257319",
+    "rate": "0.00208139"
+  },
+  {
+    "address": "miisGSU1WgJkfqDzRSgwjKG1yvf2gPt6KB",
+    "amount": "1.35633627",
+    "rate": "0.00209940"
+  },
+  {
+    "address": "bcrt1qr6mts776gt5d4jn2f9ax9ykchdryptn96t2gdv",
+    "amount": "1.25101720",
+    "rate": "0.00211741"
+  },
+  {
+    "address": "bcrt1pz68rsdw7ntc0d2az3n8zmycnjwljcmj4aqzayl8ugakqfjpxhkts0v8yp9",
+    "amount": "2.47067984",
+    "rate": "0.00213542"
+  },
+  {
+    "address": "bcrt1q9e507qmx85mka7un2290g3rx6g7ppqnep2rmsm",
+    "amount": "1.87953078",
+    "rate": "0.00215343"
+  },
+  {
+    "address": "mk1aSVcXFyLjk4pHAUi3R3oAKsVp5AuTPA",
+    "amount": "0.38088757",
+    "rate": "0.00217145"
+  },
+  {
+    "address": "2Mv1ngX4KrNAtbZokSY8Q88Pxtt1Zzw25VC",
+    "amount": "1.95490622",
+    "rate": "0.00218946"
+  },
+  {
+    "address": "2NEw9x87VpLb7hM65r2cMv2hsgbD5qjQrfW",
+    "amount": "1.63699440",
+    "rate": "0.00220747"
+  },
+  {
+    "address": "bcrt1pva6hcyuvaz6hmjevmv6jf4d77nmneys2l0ykpckz4dpcq783rl9qk6fewu",
+    "amount": "2.48526515",
+    "rate": "0.00222548"
+  },
+  {
+    "address": "n486nrCtHzJrXAPeL78kjwpo8Jiz9gdxvD",
+    "amount": "1.12367045",
+    "rate": "0.00224349"
+  },
+  {
+    "address": "bcrt1qjlkr9q22s0urshlhgcqzktytnz4kpv7aq5qjf2",
+    "amount": "2.14264056",
+    "rate": "0.00226151"
+  },
+  {
+    "address": "bcrt1pxvp9ygrydhvqvnml9d0lkzx0gwjwv03kr2qdfjfafekryeg9f7rqlgffj9",
+    "amount": "2.35642930",
+    "rate": "0.00227952"
+  },
+  {
+    "address": "bcrt1qz5fleeh0njyd4garmyfyeu86wx2sz46xae7qzh",
+    "amount": "1.55151631",
+    "rate": "0.00229753"
+  },
+  {
+    "address": "bcrt1ph6zfar6awed3vn7dfgcdrywveqpnjy0yq67c4zys852dud6a4ahs5xhrzm",
+    "amount": "1.70975293",
+    "rate": "0.00231554"
+  },
+  {
+    "address": "bcrt1p3sj0lcp9640dz0ka6pcl0qh9n85la2d0nzq6umhtrreygvpnwzzqt3h688",
+    "amount": "0.68888300",
+    "rate": "0.00233355"
+  },
+  {
+    "address": "bcrt1qqd5qe5dv27x82m4h9n3se6f0a3ccp8vq0f79q5",
+    "amount": "0.89569121",
+    "rate": "0.00235157"
+  },
+  {
+    "address": "bcrt1qumymtthxj0ervq58nh25hfr32zw0vehw8ly2l2",
+    "amount": "2.09015655",
+    "rate": "0.00236958"
+  },
+  {
+    "address": "2Mz6QVqzdP8UBHC7WSp9VxdWLuTeaifNudb",
+    "amount": "0.04491648",
+    "rate": "0.00238759"
+  },
+  {
+    "address": "bcrt1qxxge78tzp9sgm3t3wg8deskg7hzzqf3y24w72r",
+    "amount": "1.78308654",
+    "rate": "0.00240560"
+  },
+  {
+    "address": "mmkUot77k52qhfc59PbprPVotpn69J98kF",
+    "amount": "2.18559284",
+    "rate": "0.00242361"
+  },
+  {
+    "address": "bcrt1qhj57c6wljge8r2h7jd4mhjksypc2ckg0xxj7rz",
+    "amount": "2.30688963",
+    "rate": "0.00244163"
+  },
+  {
+    "address": "bcrt1pc7s6w6stfy7s039rf82fegntr6sgpnwmy2uc3runmefkun0nnensvp3qtk",
+    "amount": "2.63875199",
+    "rate": "0.00245964"
+  },
+  {
+    "address": "bcrt1qsmzuhg98dhn893g8wu2ang9l2fxw2823wgw5lq",
+    "amount": "0.02897508",
+    "rate": "0.00247765"
+  },
+  {
+    "address": "bcrt1qxalcan5qjp4w2u4eh6lspdzhp0sm7hftk5qk6z",
+    "amount": "1.51075796",
+    "rate": "0.00249566"
+  },
+  {
+    "address": "2N44ePAfvrw6wnKNdPkxqnLVxcRyU9KHb17",
+    "amount": "2.41787309",
+    "rate": "0.00251367"
+  },
+  {
+    "address": "bcrt1qkd7rv795zawrawx4nm2w94gmk8h4y3y2f80u6d",
+    "amount": "1.70334439",
+    "rate": "0.00253169"
+  },
+  {
+    "address": "mhHHvXyFKS8bULJrTVgDGuz1NQXbN2mSWc",
+    "amount": "1.36465508",
+    "rate": "0.00254970"
+  },
+  {
+    "address": "2MwLJMEs34vy7bsptHMf7EBXbEjxRfzqr9Q",
+    "amount": "1.20409613",
+    "rate": "0.00256771"
+  },
+  {
+    "address": "2MvVcmimmj6baASFFuF83gw52JEZQsAjHBx",
+    "amount": "0.74020172",
+    "rate": "0.00258572"
+  },
+  {
+    "address": "2N7PhQNvtCS3PHyAsNWVBfsfyrcZ6KxnG4u",
+    "amount": "1.24737908",
+    "rate": "0.00260373"
+  },
+  {
+    "address": "n42CAky1D8LQx47EchyeDxfp8dJL6UcVdv",
+    "amount": "0.68025723",
+    "rate": "0.00262175"
+  },
+  {
+    "address": "bcrt1p42vqjtduuevx470pywtylvjvh3cg4pcltm8wz95e2dl9m2a7z47s7973jh",
+    "amount": "0.19443546",
+    "rate": "0.00263976"
+  },
+  {
+    "address": "bcrt1p82ar9xx4s69txg2elhhu5y6jdng9m5r6pvwkxulpuxl5n30gv9ksdjqzp6",
+    "amount": "1.46710304",
+    "rate": "0.00265777"
+  },
+  {
+    "address": "2MtX9jmiPw4SkeRqyzQdE4AE8MKb29RKgmc",
+    "amount": "0.12590771",
+    "rate": "0.00267578"
+  },
+  {
+    "address": "bcrt1q40amzc7wda68wv56dvuqtztcw4xlt7xxkwcrm7",
+    "amount": "1.50395204",
+    "rate": "0.00269380"
+  },
+  {
+    "address": "myAc2xfNNA4BgPVGghvPVovRetnECkTed5",
+    "amount": "2.82133760",
+    "rate": "0.00271181"
+  },
+  {
+    "address": "bcrt1qkv2gxdpv2vpyx9d8a6nth75a05lvc55mqlq2jh",
+    "amount": "2.05993880",
+    "rate": "0.00272982"
+  },
+  {
+    "address": "n2Broe1psjXZZLFDmEeMeywLWMvMUdo6Xv",
+    "amount": "1.25423878",
+    "rate": "0.00274783"
+  },
+  {
+    "address": "mzdyiybAfATEuLcf5fWKg6WL4rVVSrtDBg",
+    "amount": "2.45008602",
+    "rate": "0.00276584"
+  },
+  {
+    "address": "2MziJNgvEPbcs21vDMRwVkM5n9RJ2Kh9pQ9",
+    "amount": "1.76296461",
+    "rate": "0.00278386"
+  },
+  {
+    "address": "mrirvWBn6z1dsVz1Wj2qfrmTQsGKsa5uci",
+    "amount": "1.20557213",
+    "rate": "0.00280187"
+  },
+  {
+    "address": "mjWzDYHdyQX7reU52mwPDBmBgNsyq7AKTf",
+    "amount": "0.56570467",
+    "rate": "0.00281988"
+  },
+  {
+    "address": "n2tzWcRqrKARAyPUQ9z9ERC5tRiHBzB4zh",
+    "amount": "2.24713635",
+    "rate": "0.00283789"
+  },
+  {
+    "address": "bcrt1p2pncn0s3sgl9umxpag59t5syhz4xjdewx8gds8v90ay40ynvhg5seu2pdf",
+    "amount": "2.91372832",
+    "rate": "0.00285590"
+  },
+  {
+    "address": "2N4MvH8U5wZ6N7PH26DuawH6tM8Xqprjeyt",
+    "amount": "2.85029919",
+    "rate": "0.00287392"
+  },
+  {
+    "address": "bcrt1qwf6ymyy9t8cwcgpgappmnjwqkp9ysmxu52g7gn",
+    "amount": "2.07675632",
+    "rate": "0.00289193"
+  },
+  {
+    "address": "bcrt1pkhhyag30nnsmt6vwnmwemswtvs6tzt2qq0twva0eghsv96ff8mes64ym43",
+    "amount": "2.34148400",
+    "rate": "0.00290994"
+  },
+  {
+    "address": "2MtkPhdjnzmTihRiG1SPzMg58ZNdU5qU87q",
+    "amount": "0.61629189",
+    "rate": "0.00292795"
+  },
+  {
+    "address": "bcrt1phmr7vd5pjpyyf4ejacummh5f4te78mdp2phemzv27c0s7095t2yszar4mu",
+    "amount": "1.17656636",
+    "rate": "0.00294596"
+  },
+  {
+    "address": "bcrt1q2lpnjw82swws9jft6qs5g069wyp4x5kulhu2x4",
+    "amount": "0.65437044",
+    "rate": "0.00296398"
+  },
+  {
+    "address": "bcrt1qmfyntagsw2eccvcfvjpa5e3zjcat64tj7je2yn",
+    "amount": "2.26793594",
+    "rate": "0.00298199"
+  }
+]

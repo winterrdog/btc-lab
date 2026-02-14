@@ -1,0 +1,50 @@
+name: Autograding Tests
+'on':
+  push:
+    branches:
+      - main
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]' && github.repository_owner != 'chaincodelabs'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: 'Setup'
+      id: setup
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Setup
+        command: "bash .github/test/setup.sh"
+        timeout: 30
+    - name: Make Payments
+      id: make-payments
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Make Payments
+        command: "bash ./solution/run_coin_selection.sh"
+        timeout: 6000
+    - name: Check Payments
+      id: check-payments
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Check Payments
+        command: "python ./.github/test/check.py"
+        timeout: 120
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        SETUP_RESULTS: "${{steps.setup.outputs.result}}"
+        MAKE-PAYMENTS_RESULTS: "${{steps.make-payments.outputs.result}}"
+        CHECK-PAYMENTS_RESULTS: "${{steps.check-payments.outputs.result}}"
+      with:
+        runners: setup,make-payments,check-payments
+    - name: Upload getbalances artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: getbalances
+        path: .github/getbalances.json
