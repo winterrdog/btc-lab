@@ -1,39 +1,47 @@
 # testing workflow on bitcoin core
 
-## clone repo (_this is a one-time thing_)
+the goal here is simple: _you want to review a PR on the bitcoin core repo, understand what it does, and verify it behaves correctly by running the relevant tests locally_. this doc walks you through that based on how i see things...
+
+## 1. clone the repo
+
+you need a local copy of the codebase to build and test anything. you only do this once.
 
 ```bash
 git clone https://github.com/bitcoin/bitcoin.git && cd bitcoin
 ```
 
-## check out to the PR of interest:
+## 2. set up PR fetching (one-time)
 
-if you've not yet setup your github config to fetch Github PRs locally, do this:
+by default, git only tracks branches; not pull requests. PRs live under `refs/pull/*/head` on github, and git won't fetch them unless you tell it to.
 
-- open your `.git/config` file and find the `[remote "origin"]` section (_this is a one-time thing_). It usually looks like this:
+open `.git/config`, find the `[remote "origin"]` section, and add the extra `fetch` line:
 
-  ```git
-  [remote "origin"]
-  url = https://github.com/user/repo.git
-  fetch = +refs/heads/_:refs/remotes/origin/_
+```git
+[remote "origin"]
+url = https://github.com/user/repo.git
+fetch = +refs/heads/*:refs/remotes/origin/*
 
-  # ADD THIS LINE BELOW: >>
-  fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
-  # << ADD THIS LINE ABOVE
-  ```
+# this line teaches git to also fetch all PRs as local refs under origin/pr/<number>
+fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
+```
 
-- save the file and run `git fetch origin` to fetch all the new refs (_this is a one-time thing_)
+then fetch once to pull down all the PR refs:
 
-- now, whenever you want to test a PR, you just type:
-  ```bash
-  git checkout pr/<PR_number>
-  ```
+```bash
+git fetch origin
+```
 
-## compile wat u need
+from now on, checking out any PR is just:
 
-e.g. here we only compile
-the Bitcoin daemon and cli (but if you wanna compile
-everything, just run `make` or `cmake --build build`):
+```bash
+git checkout pr/<PR_number>
+```
+
+## 3. compile what you need
+
+bitcoin core is a large codebase. compiling everything takes a long time and most of it you won't need for reviewing a single PR. so we only build the two binaries that matter for running a node and interacting with it: `bitcoind` (the daemon) and `bitcoin-cli` (the RPC client).
+
+the flags below disable everything else; GUI, benchmarks, fuzzing, tests, extra tools; to keep the build fast:
 
 ```bash
 cmake -B build \
@@ -48,30 +56,34 @@ cmake -B build \
     -DBUILD_WALLET_TOOL=OFF && cmake --build build -j 4 --target bitcoind bitcoin-cli
 ```
 
-refer to [productivity notes](https://github.com/bitcoin/bitcoin/blob/master/doc/productivity.md#general) on bitcoin repo in order to speed up compilations
+> tip: the bitcoin repo has a [productivity guide](https://github.com/bitcoin/bitcoin/blob/master/doc/productivity.md#general) with tricks to speed up incremental builds (e.g. using `ccache`).
 
-## run the tests (_functional_, in this case)
+## 4. run the functional tests
 
-assuming you're in the root of the repo i.e.
-`bitcoin/`
-and assuming you compiled bitcoin:
+functional tests simulate real node behavior end-to-end. they spin up one or more `bitcoind` instances, run scripted scenarios against them, and check the outcomes. this is the most direct way to verify a PR does what it claims.
+
+from the root of the repo (`bitcoin/`):
 
 ```bash
 cd ./build/test/functional
 
-# run a specific test file (e.g. feature_init.py)
-./<test_file_name>.py <...test_file_options...>
+# run a specific test file directly
+./<test_file_name>.py <...options...>
 
-# using the harness (recommended). here we run with debug output and prevent cleanup of temp dirs so that we can look/analyse the logs
+# run via the test harness (recommended)
+# --loglevel=debug gives you verbose output
+# --nocleanup keeps the temp dirs so you can inspect logs after the run
 ./test_runner.py ./feature_init.py --loglevel=debug --nocleanup
 ```
 
 refs:
 
 - [functional tests docs](https://github.com/bitcoin/bitcoin/blob/master/test/functional/README.md)
-- [integration tests](https://github.com/bitcoin/bitcoin/blob/master/test/README.md)
+- [integration tests overview](https://github.com/bitcoin/bitcoin/blob/master/test/README.md)
 
-## now contribute and PROFIT!
+## 5. contribute and PROFIT!!
 
-- think of a test case that could be added to the PR
-- propose a better algorithm even 😃
+once you understand the PR:
+
+- think about edge cases the existing tests don't cover and write a test for one
+- if the approach seems suboptimal, propose an alternative; even a rough sketch is valuable feedback, a patch diff is even better
