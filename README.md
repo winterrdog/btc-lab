@@ -9,3 +9,4 @@ once u have GCC, u can just run `make` or run any `bash` scripts you find in a f
 ## notes
 
 - for the [boss-2026](./boss-2026/) folder, [coin-selection](./boss-2026/coin-selection-challenge-winterrdog/) is still in **progress**. the rest are done.
+- for my notes on bitcoin core contribution, [check here](./btc-core-notes/notes.md)
