@@ -4,17 +4,17 @@ the goal here is simple: _you want to review a PR on the bitcoin core repo, unde
 
 ## 1. clone the repo
 
-you need a local copy of the codebase to build and test anything. you only do this once.
+you need a local copy of the codebase to build and test anything. you _only do this once_.
 
 ```bash
 git clone https://github.com/bitcoin/bitcoin.git && cd bitcoin
 ```
 
-## 2. set up PR fetching (one-time)
+## 2. set up PR fetching
 
 by default, git only tracks branches; not pull requests. PRs live under `refs/pull/*/head` on github, and git won't fetch them unless you tell it to.
 
-open `.git/config`, find the `[remote "origin"]` section, and add the extra `fetch` line:
+open `.git/config`, find the `[remote "origin"]` section, and add the extra `fetch` line (_this is a one-time thing_):
 
 ```git
 [remote "origin"]
@@ -30,6 +30,8 @@ then fetch once to pull down all the PR refs:
 ```bash
 git fetch origin
 ```
+
+> NOTE: you might need to do this once again in case the PR you want is not listed when you do `git branch -r`.
 
 from now on, checking out any PR is just:
 
@@ -76,14 +78,17 @@ cd ./build/test/functional
 ./test_runner.py ./feature_init.py --loglevel=debug --nocleanup
 ```
 
-refs:
-
-- [functional tests docs](https://github.com/bitcoin/bitcoin/blob/master/test/functional/README.md)
-- [integration tests overview](https://github.com/bitcoin/bitcoin/blob/master/test/README.md)
-
 ## 5. contribute and PROFIT!!
 
 once you understand the PR:
 
 - think about edge cases the existing tests don't cover and write a test for one
 - if the approach seems suboptimal, propose an alternative; even a rough sketch is valuable feedback, a patch diff is even better
+
+## references
+
+- [functional tests docs](https://github.com/bitcoin/bitcoin/blob/master/test/functional/README.md)
+- [integration tests overview](https://github.com/bitcoin/bitcoin/blob/master/test/README.md)
+- [compile and run tests by Jon Atack](https://jonatack.github.io/articles/how-to-compile-bitcoin-core-and-run-the-tests)
+- [helping out with reviews](https://jonatack.github.io/articles/on-reviewing-and-helping-those-who-do-it)
+- [how to carry out reviews](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
