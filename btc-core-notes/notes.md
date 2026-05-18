@@ -87,7 +87,8 @@ cmake -B build \
     -DBUILD_WALLET_TOOL=OFF && cmake --build build -j 18 --target bitcoind bitcoin-cli
 ```
 
-> tip: the bitcoin repo has a [productivity guide](https://github.com/bitcoin/bitcoin/blob/master/doc/productivity.md#general) with tricks to speed up incremental builds (e.g. using `ccache`).
+> [!TIP]
+> the bitcoin repo has a [productivity guide](https://github.com/bitcoin/bitcoin/blob/master/doc/productivity.md#general) with tricks to speed up incremental builds (e.g. using `ccache`).
 
 ## 4. run the functional tests
 
